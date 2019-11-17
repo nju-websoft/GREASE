@@ -1,0 +1,240 @@
+<http://dbpedia.org/resource/École_nationale_supérieure_des_beaux-arts>
+<http://dbpedia.org/resource/Museo_Nacional_de_Bellas_Artes_(Buenos_Aires)>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Georges_Seurat>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/École_nationale_supérieure_des_beaux-arts>
+<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/François_Boucher>	<http://dbpedia.org/resource/Museum_of_King_Jan_III''s_Palace_at_Wilanów>	<http://dbpedia.org/resource/Jacques-Louis_David>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/École_nationale_supérieure_des_beaux-arts>
+<http://dbpedia.org/resource/Grand_Trianon>	<http://dbpedia.org/resource/François_Boucher>	<http://dbpedia.org/resource/Musée_Rodin>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Palais_des_Beaux-Arts_de_Lille>	<http://dbpedia.org/resource/Jacques-Louis_David>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/École_nationale_supérieure_des_beaux-arts>
+<http://dbpedia.org/resource/Peggy_Guggenheim_Collection>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Palace_of_Versailles>	<http://dbpedia.org/resource/Antoine-Jean_Gros>	<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Paul_Signac>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>
+<http://dbpedia.org/resource/National_Museum_of_Western_Art>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	
+<http://dbpedia.org/resource/Georges_Seurat>:1	<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>
+<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Mumok>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Georges_Seurat>	
+<http://dbpedia.org/resource/Georges_Seurat>:1	<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>
+<http://dbpedia.org/resource/National_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Auguste_Rodin>	
+<http://dbpedia.org/resource/Georges_Seurat>:1	<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>
+<http://dbpedia.org/resource/Peggy_Guggenheim_Collection>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Grand_Trianon>	<http://dbpedia.org/resource/François_Boucher>	<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Courtauld_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Hermitage_Museum>	<http://dbpedia.org/resource/Jacques-Louis_David>	
+<http://dbpedia.org/resource/Georges_Seurat>:1	<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/The_Louvre>
+<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Tate_Modern>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/The_Louvre>
+<http://dbpedia.org/resource/Museum_of_King_Jan_III''s_Palace_at_Wilanów>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Dallas_Museum_of_Art>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Tate_Modern>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/The_Louvre>
+<http://dbpedia.org/resource/National_Gallery_of_Australia>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Louvre>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/The_Louvre>
+<http://dbpedia.org/resource/Courtauld_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Palace_of_Versailles>	<http://dbpedia.org/resource/Antoine-Jean_Gros>	<http://dbpedia.org/resource/Palais_des_Beaux-Arts_de_Lille>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Grand_Trianon>	<http://dbpedia.org/resource/François_Boucher>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon>
+<http://dbpedia.org/resource/Museum_of_King_Jan_III''s_Palace_at_Wilanów>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Musée_d''Art_Moderne_de_la_Ville_de_Paris>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon>
+<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Louise_Bourgeois>	<http://dbpedia.org/resource/Louvre>	<http://dbpedia.org/resource/Jacques-Louis_David>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon>
+<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon>
+<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Louise_Bourgeois>	<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Indianapolis_Museum_of_Art>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Museo_Nacional_de_Bellas_Artes_(Buenos_Aires)>	<http://dbpedia.org/resource/Auguste_Rodin>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/The_Museum_of_Modern_Art>
+<http://dbpedia.org/resource/National_Museum_of_Western_Art>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>	<http://dbpedia.org/resource/Georges_Seurat>	
+<http://dbpedia.org/resource/Robert_Delaunay>:1	<http://dbpedia.org/resource/Georges_Seurat>:1	<http://dbpedia.org/resource/Paul_Signac>:1	
+<http://dbpedia.org/resource/The_Museum_of_Modern_Art>
+<http://dbpedia.org/resource/Hermitage_Museum>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Musée_national_Gustave_Moreau>	<http://dbpedia.org/resource/Gustave_Moreau>	<http://dbpedia.org/resource/Grand_Trianon>	<http://dbpedia.org/resource/François_Boucher>	
+<http://dbpedia.org/resource/Robert_Delaunay>:1	<http://dbpedia.org/resource/Georges_Seurat>:1	<http://dbpedia.org/resource/Paul_Signac>:1	
+<http://dbpedia.org/resource/The_Museum_of_Modern_Art>
+<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Tate_Modern>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Louvre>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Georges_Seurat>	
+<http://dbpedia.org/resource/Robert_Delaunay>:1	<http://dbpedia.org/resource/Georges_Seurat>:1	<http://dbpedia.org/resource/Paul_Signac>:1	
+<http://dbpedia.org/resource/The_Museum_of_Modern_Art>
+<http://dbpedia.org/resource/Tate_Modern>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Olympic_Sculpture_Park>	<http://dbpedia.org/resource/Louise_Bourgeois>	<http://dbpedia.org/resource/Château_de_Malmaison>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/Dallas_Museum_of_Art>	<http://dbpedia.org/resource/Auguste_Rodin>	
+<http://dbpedia.org/resource/Robert_Delaunay>:1	<http://dbpedia.org/resource/Georges_Seurat>:1	<http://dbpedia.org/resource/Paul_Signac>:1	
+<http://dbpedia.org/resource/National_Museum_of_Western_Art>
+<http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Hermitage_Museum>	<http://dbpedia.org/resource/Jacques-Louis_David>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/National_Museum_of_Western_Art>
+<http://dbpedia.org/resource/Palais_des_Beaux-Arts_de_Lille>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/Musée_d''Orsay>	<http://dbpedia.org/resource/Georges_Seurat>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/National_Museum_of_Western_Art>
+<http://dbpedia.org/resource/Musée_des_Beaux-Arts_de_Marseille>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Courtauld_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Auguste_Rodin>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/National_Museum_of_Western_Art>
+<http://dbpedia.org/resource/École_nationale_supérieure_des_beaux-arts>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Grand_Trianon>	<http://dbpedia.org/resource/François_Boucher>	<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Museo_Nacional_de_Bellas_Artes_(Buenos_Aires)>	<http://dbpedia.org/resource/Auguste_Rodin>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Louvre>
+<http://dbpedia.org/resource/Musée_des_Beaux-Arts_de_Marseille>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	<http://dbpedia.org/resource/Antoine-Jean_Gros>:1	
+<http://dbpedia.org/resource/Louvre>
+<http://dbpedia.org/resource/Royal_Museums_of_Fine_Arts_of_Belgium>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Georges_Seurat>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	<http://dbpedia.org/resource/Antoine-Jean_Gros>:1	
+<http://dbpedia.org/resource/Louvre>
+<http://dbpedia.org/resource/Musée_d''Art_Moderne_de_la_Ville_de_Paris>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Palace_of_Versailles>	<http://dbpedia.org/resource/Antoine-Jean_Gros>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	<http://dbpedia.org/resource/Antoine-Jean_Gros>:1	
+<http://dbpedia.org/resource/Louvre>
+<http://dbpedia.org/resource/Courtauld_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Mumok>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Louise_Bourgeois>	<http://dbpedia.org/resource/Palace_of_Versailles>	<http://dbpedia.org/resource/Antoine-Jean_Gros>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	<http://dbpedia.org/resource/Antoine-Jean_Gros>:1	
+<http://dbpedia.org/resource/Philadelphia_Museum_of_Art>
+<http://dbpedia.org/resource/Hermitage_Museum>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/National_Museum_of_Western_Art>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Philadelphia_Museum_of_Art>
+<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Centre_Georges_Pompidou>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Philadelphia_Museum_of_Art>
+<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Centre_Georges_Pompidou>	<http://dbpedia.org/resource/Robert_Delaunay>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Philadelphia_Museum_of_Art>
+<http://dbpedia.org/resource/Albright-Knox_Art_Gallery>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Louvre>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Louise_Bourgeois>	<http://dbpedia.org/resource/Musée_Rodin>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Paul_Signac>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Musée_des_Beaux-Arts_de_Marseille>
+<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/Musée_d''Art_Moderne_de_la_Ville_de_Paris>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Musée_des_Beaux-Arts_de_Marseille>
+<http://dbpedia.org/resource/Centre_Georges_Pompidou>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/École_nationale_supérieure_des_beaux-arts>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Grand_Trianon>	<http://dbpedia.org/resource/François_Boucher>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Musée_des_Beaux-Arts_de_Marseille>
+<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Courtauld_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Paul_Signac>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Musée_des_Beaux-Arts_de_Marseille>
+<http://dbpedia.org/resource/Musée_Rodin>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Palace_of_Versailles>	<http://dbpedia.org/resource/Antoine-Jean_Gros>	<http://dbpedia.org/resource/Olympic_Sculpture_Park>	<http://dbpedia.org/resource/Louise_Bourgeois>	<http://dbpedia.org/resource/Courtauld_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/National_Gallery_of_Australia>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Tate_Modern>
+<http://dbpedia.org/resource/Indianapolis_Museum_of_Art>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Tate_Modern>
+<http://dbpedia.org/resource/Musée_national_Gustave_Moreau>	<http://dbpedia.org/resource/Gustave_Moreau>	<http://dbpedia.org/resource/Peggy_Guggenheim_Collection>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/National_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Tate_Modern>
+<http://dbpedia.org/resource/Olympic_Sculpture_Park>	<http://dbpedia.org/resource/Louise_Bourgeois>	<http://dbpedia.org/resource/Musée_des_Beaux-Arts_de_Marseille>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Musée_national_Gustave_Moreau>	<http://dbpedia.org/resource/Gustave_Moreau>	<http://dbpedia.org/resource/Grand_Trianon>	<http://dbpedia.org/resource/François_Boucher>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Tate_Modern>
+<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Musée_national_Gustave_Moreau>	<http://dbpedia.org/resource/Gustave_Moreau>	<http://dbpedia.org/resource/Hermitage_Museum>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/National_Gallery_of_Art>
+<http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Centre_Georges_Pompidou>	<http://dbpedia.org/resource/Robert_Delaunay>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	<http://dbpedia.org/resource/Jacques-Louis_David>:1	<http://dbpedia.org/resource/François_Boucher>:1	
+<http://dbpedia.org/resource/National_Gallery_of_Art>
+<http://dbpedia.org/resource/National_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Olympic_Sculpture_Park>	<http://dbpedia.org/resource/Louise_Bourgeois>	<http://dbpedia.org/resource/National_Gallery_of_Australia>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	<http://dbpedia.org/resource/Jacques-Louis_David>:1	<http://dbpedia.org/resource/François_Boucher>:1	
+<http://dbpedia.org/resource/National_Gallery_of_Art>
+<http://dbpedia.org/resource/Musée_du_Louvre>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Robert_Delaunay>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	<http://dbpedia.org/resource/Jacques-Louis_David>:1	<http://dbpedia.org/resource/François_Boucher>:1	
+<http://dbpedia.org/resource/National_Gallery_of_Art>
+<http://dbpedia.org/resource/Courtauld_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Musée_national_Gustave_Moreau>	<http://dbpedia.org/resource/Gustave_Moreau>	<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Grand_Trianon>	<http://dbpedia.org/resource/François_Boucher>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	<http://dbpedia.org/resource/Jacques-Louis_David>:1	<http://dbpedia.org/resource/François_Boucher>:1	
+<http://dbpedia.org/resource/Museum_of_King_Jan_III''s_Palace_at_Wilanów>
+<http://dbpedia.org/resource/Musée_Rodin>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Albright-Knox_Art_Gallery>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Museum_of_King_Jan_III''s_Palace_at_Wilanów>
+<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/François_Boucher>	<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Museum_of_King_Jan_III''s_Palace_at_Wilanów>
+<http://dbpedia.org/resource/National_Gallery_of_Australia>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Hermitage_Museum>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Musée_Rodin>	<http://dbpedia.org/resource/Auguste_Rodin>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Museum_of_King_Jan_III''s_Palace_at_Wilanów>
+<http://dbpedia.org/resource/Château_de_Malmaison>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Centre_Georges_Pompidou>	<http://dbpedia.org/resource/Robert_Delaunay>	
+<http://dbpedia.org/resource/Jacques-Louis_David>:1	
+<http://dbpedia.org/resource/Musée_d''Orsay>
+<http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Palais_des_Beaux-Arts_de_Lille>	<http://dbpedia.org/resource/Jacques-Louis_David>	
+<http://dbpedia.org/resource/Georges_Seurat>:1	
+<http://dbpedia.org/resource/Musée_d''Orsay>
+<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Musée_des_Beaux-Arts_de_Marseille>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Philadelphia_Museum_of_Art>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Georges_Seurat>:1	
+<http://dbpedia.org/resource/Musée_d''Orsay>
+<http://dbpedia.org/resource/Louvre>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Centre_Georges_Pompidou>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Paul_Signac>	
+<http://dbpedia.org/resource/Georges_Seurat>:1	
+<http://dbpedia.org/resource/Musée_d''Orsay>
+<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Tate_Modern>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Château_de_Malmaison>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Centre_Georges_Pompidou>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Louise_Bourgeois>	
+<http://dbpedia.org/resource/Georges_Seurat>:1	
+<http://dbpedia.org/resource/Courtauld_Gallery>
+<http://dbpedia.org/resource/National_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	
+<http://dbpedia.org/resource/Georges_Seurat>:1	
+<http://dbpedia.org/resource/Courtauld_Gallery>
+<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Louise_Bourgeois>	<http://dbpedia.org/resource/Hermitage_Museum>	<http://dbpedia.org/resource/Jacques-Louis_David>	
+<http://dbpedia.org/resource/Georges_Seurat>:1	
+<http://dbpedia.org/resource/Courtauld_Gallery>
+<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/National_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Grand_Trianon>	<http://dbpedia.org/resource/François_Boucher>	
+<http://dbpedia.org/resource/Georges_Seurat>:1	
+<http://dbpedia.org/resource/Courtauld_Gallery>
+<http://dbpedia.org/resource/Albright-Knox_Art_Gallery>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Palais_des_Beaux-Arts_de_Lille>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Musée_Rodin>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>	<http://dbpedia.org/resource/Georges_Seurat>	
+<http://dbpedia.org/resource/Georges_Seurat>:1	
+<http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum>
+<http://dbpedia.org/resource/Musée_d''Art_Moderne_de_la_Ville_de_Paris>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/François_Boucher>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum>
+<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Museum_of_King_Jan_III''s_Palace_at_Wilanów>	<http://dbpedia.org/resource/Jacques-Louis_David>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum>
+<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Grand_Trianon>	<http://dbpedia.org/resource/François_Boucher>	<http://dbpedia.org/resource/Musée_Rodin>	<http://dbpedia.org/resource/Auguste_Rodin>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum>
+<http://dbpedia.org/resource/Dallas_Museum_of_Art>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Centre_Georges_Pompidou>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Museum_of_King_Jan_III''s_Palace_at_Wilanów>	<http://dbpedia.org/resource/Jacques-Louis_David>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Albright-Knox_Art_Gallery>
+<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/François_Boucher>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Albright-Knox_Art_Gallery>
+<http://dbpedia.org/resource/National_Museum_of_Western_Art>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Musée_du_Louvre>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Grand_Trianon>	<http://dbpedia.org/resource/François_Boucher>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Albright-Knox_Art_Gallery>
+<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/Museum_of_King_Jan_III''s_Palace_at_Wilanów>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/National_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Albright-Knox_Art_Gallery>
+<http://dbpedia.org/resource/Olympic_Sculpture_Park>	<http://dbpedia.org/resource/Louise_Bourgeois>	<http://dbpedia.org/resource/Louvre>	<http://dbpedia.org/resource/Antoine-Jean_Gros>	<http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>	<http://dbpedia.org/resource/Georges_Seurat>	
+<http://dbpedia.org/resource/Albert_Gleizes>:1	
+<http://dbpedia.org/resource/Museo_Nacional_de_Bellas_Artes_(Buenos_Aires)>
+<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Royal_Museums_of_Fine_Arts_of_Belgium>	<http://dbpedia.org/resource/Jacques-Louis_David>	
+<http://dbpedia.org/resource/Auguste_Rodin>:1	
+<http://dbpedia.org/resource/Museo_Nacional_de_Bellas_Artes_(Buenos_Aires)>
+<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/Indianapolis_Museum_of_Art>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Louise_Bourgeois>	
+<http://dbpedia.org/resource/Auguste_Rodin>:1	
+<http://dbpedia.org/resource/Museo_Nacional_de_Bellas_Artes_(Buenos_Aires)>
+<http://dbpedia.org/resource/Royal_Museums_of_Fine_Arts_of_Belgium>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Philadelphia_Museum_of_Art>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Georges_Seurat>	
+<http://dbpedia.org/resource/Auguste_Rodin>:1	
+<http://dbpedia.org/resource/Museo_Nacional_de_Bellas_Artes_(Buenos_Aires)>
+<http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Courtauld_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Museo_Soumaya>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Kröller-Müller_Museum>	<http://dbpedia.org/resource/Paul_Signac>	
+<http://dbpedia.org/resource/Auguste_Rodin>:1	
+<http://dbpedia.org/resource/Grand_Trianon>
+<http://dbpedia.org/resource/Dallas_Museum_of_Art>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/National_Gallery>	<http://dbpedia.org/resource/Georges_Seurat>	
+<http://dbpedia.org/resource/François_Boucher>:1	
+<http://dbpedia.org/resource/Grand_Trianon>
+<http://dbpedia.org/resource/Albright-Knox_Art_Gallery>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Musée_des_Beaux-Arts_de_Marseille>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Musée_Rodin>	<http://dbpedia.org/resource/Auguste_Rodin>	
+<http://dbpedia.org/resource/François_Boucher>:1	
+<http://dbpedia.org/resource/Grand_Trianon>
+<http://dbpedia.org/resource/Louvre>	<http://dbpedia.org/resource/Antoine-Jean_Gros>	<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/Musée_national_Gustave_Moreau>	<http://dbpedia.org/resource/Gustave_Moreau>	
+<http://dbpedia.org/resource/François_Boucher>:1	
+<http://dbpedia.org/resource/Grand_Trianon>
+<http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston>	<http://dbpedia.org/resource/Louise_Bourgeois>	<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Louvre>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Palace_of_Versailles>	<http://dbpedia.org/resource/Antoine-Jean_Gros>	<http://dbpedia.org/resource/Musée_Rodin>	<http://dbpedia.org/resource/Auguste_Rodin>	
+<http://dbpedia.org/resource/François_Boucher>:1	
+<http://dbpedia.org/resource/Musée_Rodin>
+<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Olympic_Sculpture_Park>	<http://dbpedia.org/resource/Louise_Bourgeois>	
+<http://dbpedia.org/resource/Auguste_Rodin>:1	
+<http://dbpedia.org/resource/Musée_Rodin>
+<http://dbpedia.org/resource/Musée_national_Gustave_Moreau>	<http://dbpedia.org/resource/Gustave_Moreau>	<http://dbpedia.org/resource/Museo_Nacional_de_Bellas_Artes_(Buenos_Aires)>	<http://dbpedia.org/resource/Auguste_Rodin>	<http://dbpedia.org/resource/Château_de_Malmaison>	<http://dbpedia.org/resource/Jacques-Louis_David>	
+<http://dbpedia.org/resource/Auguste_Rodin>:1	
+<http://dbpedia.org/resource/Musée_Rodin>
+<http://dbpedia.org/resource/Royal_Museums_of_Fine_Arts_of_Belgium>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Paul_Signac>	
+<http://dbpedia.org/resource/Auguste_Rodin>:1	
+<http://dbpedia.org/resource/Musée_Rodin>
+<http://dbpedia.org/resource/Metropolitan_Museum_of_Art>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Musée_d''Art_Moderne_de_la_Ville_de_Paris>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Paul_Signac>	<http://dbpedia.org/resource/Louvre>	<http://dbpedia.org/resource/Antoine-Jean_Gros>	
+<http://dbpedia.org/resource/Auguste_Rodin>:1	
+<http://dbpedia.org/resource/Centre_Georges_Pompidou>
+<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Museo_Nacional_de_Bellas_Artes_(Buenos_Aires)>	<http://dbpedia.org/resource/Auguste_Rodin>	
+<http://dbpedia.org/resource/Robert_Delaunay>:1	
+<http://dbpedia.org/resource/Centre_Georges_Pompidou>
+<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/François_Boucher>	<http://dbpedia.org/resource/Art_Institute_of_Chicago>	<http://dbpedia.org/resource/Robert_Delaunay>	<http://dbpedia.org/resource/National_Museum_of_Western_Art>	<http://dbpedia.org/resource/Albert_Gleizes>	
+<http://dbpedia.org/resource/Robert_Delaunay>:1	
+<http://dbpedia.org/resource/Centre_Georges_Pompidou>
+<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Musée_d''Art_Moderne_de_la_Ville_de_Paris>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/National_Gallery_of_Art>	<http://dbpedia.org/resource/François_Boucher>	<http://dbpedia.org/resource/The_Museum_of_Modern_Art>	<http://dbpedia.org/resource/Robert_Delaunay>	
+<http://dbpedia.org/resource/Robert_Delaunay>:1	
+<http://dbpedia.org/resource/Centre_Georges_Pompidou>
+<http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum>	<http://dbpedia.org/resource/Albert_Gleizes>	<http://dbpedia.org/resource/Louvre>	<http://dbpedia.org/resource/Antoine-Jean_Gros>	<http://dbpedia.org/resource/The_Louvre>	<http://dbpedia.org/resource/Jacques-Louis_David>	<http://dbpedia.org/resource/Van_Gogh_Museum>	<http://dbpedia.org/resource/Georges_Seurat>	<http://dbpedia.org/resource/Musée_national_Gustave_Moreau>	<http://dbpedia.org/resource/Gustave_Moreau>	
+<http://dbpedia.org/resource/Robert_Delaunay>:1	

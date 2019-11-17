@@ -1,0 +1,6 @@
+0 gender
+1 country
+2 genre
+3 star
+4 director
+5 award

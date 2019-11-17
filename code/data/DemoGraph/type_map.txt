@@ -1,0 +1,6 @@
+0 preson
+1 film
+2 award
+3 genre
+4 country
+5 gender

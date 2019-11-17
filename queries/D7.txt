@@ -1,0 +1,240 @@
+<http://dbpedia.org/resource/André_Balazs>
+<http://dbpedia.org/resource/Margaret_Pittman>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Barbara_Darling>	<http://dbpedia.org/resource/SpringSource>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/André_Balazs>
+<http://dbpedia.org/resource/Elam_J._Anderson>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Lawrence_D._Brown>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Bob_Barr>	<http://dbpedia.org/resource/Salesforce.com>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/André_Balazs>
+<http://dbpedia.org/resource/J._Paul_Reddam>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Owen_Toon>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Joanna_Hoffman>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Noall_Wootton>	<http://dbpedia.org/resource/Oomba>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/André_Balazs>
+<http://dbpedia.org/resource/Cyd_Ho>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Alan_Smolinisky>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/James_R._Houck>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Peter_King_(Australian_politician)>	<http://dbpedia.org/resource/SpringSource>	<http://dbpedia.org/resource/Marcella_Carollo>	<http://dbpedia.org/resource/Lightbend_Inc.>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Vitalik_Buterin>
+<http://dbpedia.org/resource/David_Cronenberg>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Gareth_Porter>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Databricks>:1	<http://dbpedia.org/resource/Waterloo_Maple>:1	<http://dbpedia.org/resource/Imply_Corporation>:1	
+<http://dbpedia.org/resource/Vitalik_Buterin>
+<http://dbpedia.org/resource/Rangaswamy_Srinivasan>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Robert_Spitzer_(psychiatrist)>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Mannque_Rho>	<http://dbpedia.org/resource/Databricks>	
+<http://dbpedia.org/resource/Databricks>:1	<http://dbpedia.org/resource/Waterloo_Maple>:1	<http://dbpedia.org/resource/Imply_Corporation>:1	
+<http://dbpedia.org/resource/Vitalik_Buterin>
+<http://dbpedia.org/resource/Qi_Lu_(computer_scientist)>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Peter_J._Bickel>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Mai_Kitazawa_Arbegast>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/John_Alexander_Simpson>	<http://dbpedia.org/resource/NeXT>	
+<http://dbpedia.org/resource/Databricks>:1	<http://dbpedia.org/resource/Waterloo_Maple>:1	<http://dbpedia.org/resource/Imply_Corporation>:1	
+<http://dbpedia.org/resource/Vitalik_Buterin>
+<http://dbpedia.org/resource/Robert_Jay_Lifton>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Greg_Brower>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/John_B._Chitamber>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Adam_Herbert>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Howard_C._Nielson>	<http://dbpedia.org/resource/Oomba>	
+<http://dbpedia.org/resource/Databricks>:1	<http://dbpedia.org/resource/Waterloo_Maple>:1	<http://dbpedia.org/resource/Imply_Corporation>:1	
+<http://dbpedia.org/resource/Robert_F._Engle>
+<http://dbpedia.org/resource/Hans_Fränkel>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Peter_Clyne>	<http://dbpedia.org/resource/SpringSource>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Robert_F._Engle>
+<http://dbpedia.org/resource/Mai_Kitazawa_Arbegast>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Leah_Ward_Sears>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Bob_Boerigter>	<http://dbpedia.org/resource/Oomba>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Robert_F._Engle>
+<http://dbpedia.org/resource/Felix_Villars>	<http://dbpedia.org/resource/Lightbend_Inc.>	<http://dbpedia.org/resource/Dorian_Baxter>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Clifton_Daggett_Gray>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Nathan_Banks>	<http://dbpedia.org/resource/Modernizing_Medicine>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Robert_F._Engle>
+<http://dbpedia.org/resource/Stefan_Burr>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Liane_Davey>	<http://dbpedia.org/resource/Imply_Corporation>	<http://dbpedia.org/resource/Colin_Burgon>	<http://dbpedia.org/resource/WANdisco>	<http://dbpedia.org/resource/John_Markert_(physicist)>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Jay_S._Walker>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Elbert_D._Thomas>
+<http://dbpedia.org/resource/C._Gordon_Fullerton>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Carlos_Cordon-Cardo>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Oomba>:1	<http://dbpedia.org/resource/Schrödinger_(company)>:1	
+<http://dbpedia.org/resource/Elbert_D._Thomas>
+<http://dbpedia.org/resource/Richard_Glenn_Gettell>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/William_Dawson_LeSueur>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Barbara_McClintock>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Oomba>:1	<http://dbpedia.org/resource/Schrödinger_(company)>:1	
+<http://dbpedia.org/resource/Elbert_D._Thomas>
+<http://dbpedia.org/resource/Erich_Bloch>	<http://dbpedia.org/resource/Lightbend_Inc.>	<http://dbpedia.org/resource/Bradford_Perkins_(architect)>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Nigel_S._Wright>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Margaret_M._Mitchell>	<http://dbpedia.org/resource/Schrödinger_(company)>	
+<http://dbpedia.org/resource/Oomba>:1	<http://dbpedia.org/resource/Schrödinger_(company)>:1	
+<http://dbpedia.org/resource/Elbert_D._Thomas>
+<http://dbpedia.org/resource/Bob_Finkel>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/George_A._Bekey>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Paul_A._Schoellkopf>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Moses_H._W._Chan>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Tom_Moody_(politician)>	<http://dbpedia.org/resource/Veeam_Software>	
+<http://dbpedia.org/resource/Oomba>:1	<http://dbpedia.org/resource/Schrödinger_(company)>:1	
+<http://dbpedia.org/resource/Arnold_O._Benz>
+<http://dbpedia.org/resource/Enrique_Zileri>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Jean_Robieux>	<http://dbpedia.org/resource/Schrödinger_(company)>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Arnold_O._Benz>
+<http://dbpedia.org/resource/Matt_McGue>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Jean-Luc_Margot>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Sandy_Macdonald>	<http://dbpedia.org/resource/SpringSource>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Arnold_O._Benz>
+<http://dbpedia.org/resource/Donald_Andrews>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Donald_C._Backer>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Suresh_Subramani>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Deborah_Pryce>	<http://dbpedia.org/resource/Veeam_Software>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Arnold_O._Benz>
+<http://dbpedia.org/resource/Antonio_Martino>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Frank_Baylis>	<http://dbpedia.org/resource/Imply_Corporation>	<http://dbpedia.org/resource/David_J._Leland>	<http://dbpedia.org/resource/Veeam_Software>	<http://dbpedia.org/resource/Andy_Brandt>	<http://dbpedia.org/resource/Waterloo_Maple>	<http://dbpedia.org/resource/Joyce_L._Kennard>	<http://dbpedia.org/resource/Salesforce.com>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Ned_Wingreen>
+<http://dbpedia.org/resource/Peter_Coleman>	<http://dbpedia.org/resource/SpringSource>	<http://dbpedia.org/resource/James_S._Parker>	<http://dbpedia.org/resource/Modernizing_Medicine>	
+<http://dbpedia.org/resource/Schrödinger_(company)>:1	<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Ned_Wingreen>
+<http://dbpedia.org/resource/Arlene_Kramer_Richards>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Jack_Lindquist>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Steve_Joordens>	<http://dbpedia.org/resource/Databricks>	
+<http://dbpedia.org/resource/Schrödinger_(company)>:1	<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Ned_Wingreen>
+<http://dbpedia.org/resource/John_Mattick>	<http://dbpedia.org/resource/SpringSource>	<http://dbpedia.org/resource/Joseph_M._McShane>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Jeffrey_Zaslow>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Igal_Roodenko>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Schrödinger_(company)>:1	<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Ned_Wingreen>
+<http://dbpedia.org/resource/John_Hopfield>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Peter_Schiff>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Earl_Tanner>	<http://dbpedia.org/resource/Oomba>	<http://dbpedia.org/resource/William_Aitken_(politician)>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Thressa_Stadtman>	<http://dbpedia.org/resource/Modernizing_Medicine>	
+<http://dbpedia.org/resource/Schrödinger_(company)>:1	<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Stuart_Millheiser>
+<http://dbpedia.org/resource/Charles_W._Dahlquist_II>	<http://dbpedia.org/resource/Oomba>	<http://dbpedia.org/resource/Charles_Ofria>	<http://dbpedia.org/resource/Schrödinger_(company)>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Stuart_Millheiser>
+<http://dbpedia.org/resource/Sheela_Basrur>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Sandra_Vehrencamp>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Julian_McMahon>	<http://dbpedia.org/resource/SpringSource>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Stuart_Millheiser>
+<http://dbpedia.org/resource/Gary_W._Goldstein>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Barbara_Coombs_Lee>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Ann_Cavoukian>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Elisabeth_Kirkby>	<http://dbpedia.org/resource/SpringSource>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Stuart_Millheiser>
+<http://dbpedia.org/resource/Diane_Wiessinger>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Sunil_K._Agrawal>	<http://dbpedia.org/resource/Veeam_Software>	<http://dbpedia.org/resource/Judith_Graham_Pool>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Henry_John_Cody>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Christopher_C._Conner>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Carlos_Cordon-Cardo>
+<http://dbpedia.org/resource/Emil_Freed>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Robert_Mundell>	<http://dbpedia.org/resource/Databricks>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Carlos_Cordon-Cardo>
+<http://dbpedia.org/resource/Paul_Comi>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Corrie_Moreau>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Chan_Choi-hi>	<http://dbpedia.org/resource/Databricks>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Carlos_Cordon-Cardo>
+<http://dbpedia.org/resource/Richard_Velazquez>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Padmasree_Warrior>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Alf_Rehn>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Lisa_M._Diamond>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Carlos_Cordon-Cardo>
+<http://dbpedia.org/resource/Harry_Morgan>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Donald_Schmitt>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Jeff_Wadlow>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Armando_Samper_Gnecco>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Laurence_J._Burton>	<http://dbpedia.org/resource/Oomba>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Matt_Ruff>
+<http://dbpedia.org/resource/Andrew_Ross_Sorkin>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Donald_Kagan>	<http://dbpedia.org/resource/Veeam_Software>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Matt_Ruff>
+<http://dbpedia.org/resource/Rosa_Clemente>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Christine_Delphy>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Erving_Goffman>	<http://dbpedia.org/resource/Databricks>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Matt_Ruff>
+<http://dbpedia.org/resource/Amanda_Ripley>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Adam_Nimoy>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Frank_Baylis>	<http://dbpedia.org/resource/Imply_Corporation>	<http://dbpedia.org/resource/Thomas_J._Moyer>	<http://dbpedia.org/resource/Veeam_Software>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Matt_Ruff>
+<http://dbpedia.org/resource/Corrie_Moreau>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/David_E._Kaplan>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Michael_Pearlman>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Paul_L._Friedman>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Lilian_Wyckoff_Johnson>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Robert_D._Ziff>
+<http://dbpedia.org/resource/Elizabeth_Evatt>	<http://dbpedia.org/resource/SpringSource>	<http://dbpedia.org/resource/David_G._Campbell>	<http://dbpedia.org/resource/Oomba>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Robert_D._Ziff>
+<http://dbpedia.org/resource/Richard_B._Mather>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Michel_Nakhla>	<http://dbpedia.org/resource/Imply_Corporation>	<http://dbpedia.org/resource/E._Gordon_Gee>	<http://dbpedia.org/resource/Oomba>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Robert_D._Ziff>
+<http://dbpedia.org/resource/Joshua_Greenberg>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Sten_Odenwald>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Danny_Zappin>	<http://dbpedia.org/resource/Veeam_Software>	<http://dbpedia.org/resource/Guido_Mina_di_Sospiro>	<http://dbpedia.org/resource/Salesforce.com>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Robert_D._Ziff>
+<http://dbpedia.org/resource/Reimar_Lüst>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Peter_Young_(judge)>	<http://dbpedia.org/resource/SpringSource>	<http://dbpedia.org/resource/Herbert_Friedmann>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Reza_Farajidana>	<http://dbpedia.org/resource/Imply_Corporation>	<http://dbpedia.org/resource/Carl_Betz>	<http://dbpedia.org/resource/Databricks>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Marshall_Holloway>
+<http://dbpedia.org/resource/Peter_Mattis>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Amos_de-Shalit>	<http://dbpedia.org/resource/Lightbend_Inc.>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Marshall_Holloway>
+<http://dbpedia.org/resource/Bradley_Efron>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Cheri_DiNovo>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Stephen_Kappes>	<http://dbpedia.org/resource/Veeam_Software>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Marshall_Holloway>
+<http://dbpedia.org/resource/Sahar_Delijani>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Floyd_K._Richtmyer>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Holly_Hunter>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Benoni_Urey>	<http://dbpedia.org/resource/Salesforce.com>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Marshall_Holloway>
+<http://dbpedia.org/resource/Paul_D''Anieri>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Frank_C._Newman>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Jack_Klugman>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Alexander_Dobrindt>	<http://dbpedia.org/resource/Lightbend_Inc.>	<http://dbpedia.org/resource/Jenny_Wu>	<http://dbpedia.org/resource/Salesforce.com>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Morris_Lyon_Buchwalter>
+<http://dbpedia.org/resource/Frank_Drake>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Elam_J._Anderson>	<http://dbpedia.org/resource/Schrödinger_(company)>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Morris_Lyon_Buchwalter>
+<http://dbpedia.org/resource/William_Robert_Ming>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Charles_J._Shindo>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Percy_Spender>	<http://dbpedia.org/resource/SpringSource>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Morris_Lyon_Buchwalter>
+<http://dbpedia.org/resource/Barbara_J._Grosz>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Pablo_Schreiber>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Karen_Morgan>	<http://dbpedia.org/resource/Oomba>	<http://dbpedia.org/resource/Gary_Condit>	<http://dbpedia.org/resource/Salesforce.com>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Morris_Lyon_Buchwalter>
+<http://dbpedia.org/resource/Thomas_J._Sargent>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Vera_Charles>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Wendell_Brown>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/William_H._Riffee>	<http://dbpedia.org/resource/Veeam_Software>	<http://dbpedia.org/resource/Dale_W._Jorgenson>	<http://dbpedia.org/resource/NeXT>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Joe_De_Sena>
+<http://dbpedia.org/resource/Escott_Reid>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Aaron_Yeary>	<http://dbpedia.org/resource/Schrödinger_(company)>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Joe_De_Sena>
+<http://dbpedia.org/resource/Miguel_Torruco_Marqués>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/John_Riccitiello>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Garrett_P._Serviss>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Joe_De_Sena>
+<http://dbpedia.org/resource/E._Roger_Sayers>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Harry_Kroger>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Laurie_Ferguson>	<http://dbpedia.org/resource/SpringSource>	<http://dbpedia.org/resource/Dimon_McFerson>	<http://dbpedia.org/resource/Salesforce.com>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Joe_De_Sena>
+<http://dbpedia.org/resource/Benjamin_Bloom>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Richard_T._Snodgrass>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Anton_Hofreiter>	<http://dbpedia.org/resource/Lightbend_Inc.>	<http://dbpedia.org/resource/Steve_Gordon_(director)>	<http://dbpedia.org/resource/Veeam_Software>	<http://dbpedia.org/resource/William_J._LeVeque>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Joseph_B._Foraker>
+<http://dbpedia.org/resource/Roy_Baldwin>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Philip_Habib>	<http://dbpedia.org/resource/Schrödinger_(company)>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Joseph_B._Foraker>
+<http://dbpedia.org/resource/Lu_Chen_(scientist)>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Eric_Betzig>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Lawrence_Ho>	<http://dbpedia.org/resource/Databricks>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Joseph_B._Foraker>
+<http://dbpedia.org/resource/Amit_Sahai>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Nadja_Hirsch>	<http://dbpedia.org/resource/Lightbend_Inc.>	<http://dbpedia.org/resource/Allan_Turner_Howe>	<http://dbpedia.org/resource/Oomba>	<http://dbpedia.org/resource/Drew_Clarke>	<http://dbpedia.org/resource/Veeam_Software>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Joseph_B._Foraker>
+<http://dbpedia.org/resource/Edgar_Godbold>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Stana_Katic>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Carolyn_Simpson>	<http://dbpedia.org/resource/SpringSource>	<http://dbpedia.org/resource/Harvey_G._Stenger>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/John_B._Chitamber>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Thressa_Stadtman>
+<http://dbpedia.org/resource/Richard_Muth>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Anna_Rose>	<http://dbpedia.org/resource/SpringSource>	
+<http://dbpedia.org/resource/Schrödinger_(company)>:1	<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Thressa_Stadtman>
+<http://dbpedia.org/resource/Ian_Goldberg>	<http://dbpedia.org/resource/Waterloo_Maple>	<http://dbpedia.org/resource/Karen_Spilka>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Lisa_M._Diamond>	<http://dbpedia.org/resource/Modernizing_Medicine>	
+<http://dbpedia.org/resource/Schrödinger_(company)>:1	<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Thressa_Stadtman>
+<http://dbpedia.org/resource/Paul_Deneve>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Michael_Pearlman>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Stephen_Covey>	<http://dbpedia.org/resource/Oomba>	<http://dbpedia.org/resource/H._R._Krishnamurthy>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Schrödinger_(company)>:1	<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Thressa_Stadtman>
+<http://dbpedia.org/resource/Dale_R._Corson>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Douglas_H._Ginsburg>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Pilar_del_Castillo>	<http://dbpedia.org/resource/Veeam_Software>	<http://dbpedia.org/resource/Robert_Döpel>	<http://dbpedia.org/resource/Lightbend_Inc.>	<http://dbpedia.org/resource/Alfred_Paxton_Backhouse>	<http://dbpedia.org/resource/SpringSource>	
+<http://dbpedia.org/resource/Schrödinger_(company)>:1	<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Gary_M._Mavko>
+<http://dbpedia.org/resource/Alexi_Giannoulias>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Frank_Quattrone>	<http://dbpedia.org/resource/Oomba>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Gary_M._Mavko>
+<http://dbpedia.org/resource/Kenneth_Heilman>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Bjarni_Jónsson>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Stefan_Molyneux>	<http://dbpedia.org/resource/Databricks>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Gary_M._Mavko>
+<http://dbpedia.org/resource/Farangis_Yeganegi>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Jordan_Shlain>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Vanessa_Barrs>	<http://dbpedia.org/resource/SpringSource>	<http://dbpedia.org/resource/Philip_Wadler>	<http://dbpedia.org/resource/Databricks>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Gary_M._Mavko>
+<http://dbpedia.org/resource/John_D._Anderson>	<http://dbpedia.org/resource/Veeam_Software>	<http://dbpedia.org/resource/Peter_Masak>	<http://dbpedia.org/resource/Imply_Corporation>	<http://dbpedia.org/resource/Matei_Zaharia>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Paul_Klebnikov>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Walter_Kauzmann>	<http://dbpedia.org/resource/Modernizing_Medicine>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Thomas_Nagel>
+<http://dbpedia.org/resource/Charles_H._Percy>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Ravi_Sood>	<http://dbpedia.org/resource/Imply_Corporation>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Thomas_Nagel>
+<http://dbpedia.org/resource/Brad_Myers>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Edward_Fredkin>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Alan_Krueger>	<http://dbpedia.org/resource/Modernizing_Medicine>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Thomas_Nagel>
+<http://dbpedia.org/resource/Gary_M._Mavko>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Jeanie_Buss>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Stanley_Hart_White>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/David_Baker_(biochemist)>	<http://dbpedia.org/resource/Schrödinger_(company)>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Thomas_Nagel>
+<http://dbpedia.org/resource/Bernie_Sanders>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Samuel_Pierce>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/Ellen_Spiegel>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/George_Marsaglia>	<http://dbpedia.org/resource/Veeam_Software>	<http://dbpedia.org/resource/John_McVeigh_(politician)>	<http://dbpedia.org/resource/PeopleLinx>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Myron_Charles_Taylor>
+<http://dbpedia.org/resource/George_Beadle>	<http://dbpedia.org/resource/Modernizing_Medicine>	<http://dbpedia.org/resource/John_N._Belkin>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Myron_Charles_Taylor>
+<http://dbpedia.org/resource/William_Littell_Everitt>	<http://dbpedia.org/resource/Veeam_Software>	<http://dbpedia.org/resource/Christopher_Cox>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Sun-Yung_Alice_Chang>	<http://dbpedia.org/resource/Schrödinger_(company)>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Myron_Charles_Taylor>
+<http://dbpedia.org/resource/Wayne_Owens>	<http://dbpedia.org/resource/Oomba>	<http://dbpedia.org/resource/Malcolm_Roberts_(politician)>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Kaspar_Villiger>	<http://dbpedia.org/resource/Lightbend_Inc.>	<http://dbpedia.org/resource/Edward_J._Bloustein>	<http://dbpedia.org/resource/Modernizing_Medicine>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Myron_Charles_Taylor>
+<http://dbpedia.org/resource/Peter_S._Kim>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Victoria_Aveyard>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Desney_Tan>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Tim_Chen_(corporate_executive)>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Mark_Frissora>	<http://dbpedia.org/resource/Veeam_Software>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Justin_Rattner>
+<http://dbpedia.org/resource/Jeremy_Griffith>	<http://dbpedia.org/resource/SpringSource>	<http://dbpedia.org/resource/Kenneth_S._Reightler_Jr.>	<http://dbpedia.org/resource/Salesforce.com>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Justin_Rattner>
+<http://dbpedia.org/resource/Nigel_S._Wright>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Milan_Smith>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Ryka_Aoki>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Justin_Rattner>
+<http://dbpedia.org/resource/Roscoe_Giles>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Letitia_Woods_Brown>	<http://dbpedia.org/resource/Veeam_Software>	<http://dbpedia.org/resource/Michael_Franz>	<http://dbpedia.org/resource/Lightbend_Inc.>	<http://dbpedia.org/resource/Duncan_R._Derry>	<http://dbpedia.org/resource/Databricks>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Justin_Rattner>
+<http://dbpedia.org/resource/Wolfgang_Ketterle>	<http://dbpedia.org/resource/Lightbend_Inc.>	<http://dbpedia.org/resource/Michael_Athans>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Kristin_Esterberg>	<http://dbpedia.org/resource/Palm,_Inc.>	<http://dbpedia.org/resource/Chase_Williamson>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/John_D._Anderson>	<http://dbpedia.org/resource/Veeam_Software>	
+<http://dbpedia.org/resource/Modernizing_Medicine>:1	<http://dbpedia.org/resource/Palm,_Inc.>:1	
+<http://dbpedia.org/resource/Jonathan_Schaeffer>
+<http://dbpedia.org/resource/Karen_Lord>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Jennifer_Sterling-Folker>	<http://dbpedia.org/resource/Schrödinger_(company)>	
+<http://dbpedia.org/resource/Databricks>:1	<http://dbpedia.org/resource/Waterloo_Maple>:1	<http://dbpedia.org/resource/Imply_Corporation>:1	
+<http://dbpedia.org/resource/Jonathan_Schaeffer>
+<http://dbpedia.org/resource/Jesse_Ehrenfeld>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Ravi_Jagannathan>	<http://dbpedia.org/resource/Databricks>	<http://dbpedia.org/resource/Grace_Wahba>	<http://dbpedia.org/resource/Palm,_Inc.>	
+<http://dbpedia.org/resource/Databricks>:1	<http://dbpedia.org/resource/Waterloo_Maple>:1	<http://dbpedia.org/resource/Imply_Corporation>:1	
+<http://dbpedia.org/resource/Jonathan_Schaeffer>
+<http://dbpedia.org/resource/Yvonne_Brathwaite_Burke>	<http://dbpedia.org/resource/Schrödinger_(company)>	<http://dbpedia.org/resource/Yuri_Alekseevich_Ryzhov>	<http://dbpedia.org/resource/Veeam_Software>	<http://dbpedia.org/resource/Roberto_Maroni>	<http://dbpedia.org/resource/Mashape>	<http://dbpedia.org/resource/Chandra_Levy>	<http://dbpedia.org/resource/Salesforce.com>	
+<http://dbpedia.org/resource/Databricks>:1	<http://dbpedia.org/resource/Waterloo_Maple>:1	<http://dbpedia.org/resource/Imply_Corporation>:1	
+<http://dbpedia.org/resource/Jonathan_Schaeffer>
+<http://dbpedia.org/resource/Alan_Kay>	<http://dbpedia.org/resource/Oomba>	<http://dbpedia.org/resource/Mariko_Yamada>	<http://dbpedia.org/resource/Salesforce.com>	<http://dbpedia.org/resource/Luke_Davies>	<http://dbpedia.org/resource/SpringSource>	<http://dbpedia.org/resource/Inoslav_Bešker>	<http://dbpedia.org/resource/Mashape>	<http://dbpedia.org/resource/Scott_Aaronson>	<http://dbpedia.org/resource/Modernizing_Medicine>	
+<http://dbpedia.org/resource/Databricks>:1	<http://dbpedia.org/resource/Waterloo_Maple>:1	<http://dbpedia.org/resource/Imply_Corporation>:1	

@@ -1,0 +1,6 @@
+triple.txt   one triple per line:  subjectId predicateId objectId
+entity_map.txt  map one entityId to url per line: entityId url
+predicate_map.txt map one predicateId to url per line: predicateId url
+type_map.txt  map one typeId to url per line: typeId url
+entity2type: map one entity to type per line: entityId typeId
+type_count.txt the count of every type in graph: typeId count

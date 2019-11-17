@@ -1,0 +1,240 @@
+<http://dbpedia.org/resource/Albert_Ghiorso>
+<http://dbpedia.org/resource/Christian_Jakob_Kraus>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Sydney_Brenner>	<http://dbpedia.org/resource/Francis_Crick>	
+<http://dbpedia.org/resource/Enrico_Fermi>:1	<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>:1	<http://dbpedia.org/resource/Frédéric_Joliot-Curie>:1	
+<http://dbpedia.org/resource/Albert_Ghiorso>
+<http://dbpedia.org/resource/Wolfgang_Pauli>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Michael_Christoph_Hanow>	<http://dbpedia.org/resource/Mikhail_Lomonosov>	<http://dbpedia.org/resource/Ethnicity>	<http://dbpedia.org/resource/Heinz_von_Foerster>	
+<http://dbpedia.org/resource/Enrico_Fermi>:1	<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>:1	<http://dbpedia.org/resource/Frédéric_Joliot-Curie>:1	
+<http://dbpedia.org/resource/Albert_Ghiorso>
+<http://dbpedia.org/resource/Edwin_McMillan>	<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>	<http://dbpedia.org/resource/Carl_Whitaker>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/J._L._Mackie>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Arthur_Schopenhauer>	<http://dbpedia.org/resource/David_Hilbert>	
+<http://dbpedia.org/resource/Enrico_Fermi>:1	<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>:1	<http://dbpedia.org/resource/Frédéric_Joliot-Curie>:1	
+<http://dbpedia.org/resource/Albert_Ghiorso>
+<http://dbpedia.org/resource/John_Stuart_Mill>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Carl_Friedrich_Gauss>	<http://dbpedia.org/resource/B._F._Skinner>	<http://dbpedia.org/resource/Ilya_Prigogine>	<http://dbpedia.org/resource/William_Petty>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Marvin_Minsky>	<http://dbpedia.org/resource/Douglas_Hofstadter>	
+<http://dbpedia.org/resource/Enrico_Fermi>:1	<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>:1	<http://dbpedia.org/resource/Frédéric_Joliot-Curie>:1	
+<http://dbpedia.org/resource/Jakob_Sigismund_Beck>
+<http://dbpedia.org/resource/Wolfgang_Pauli>	<http://dbpedia.org/resource/Lise_Meitner>	<http://dbpedia.org/resource/Wilfred_Eade_Agar>	<http://dbpedia.org/resource/Ilya_Prigogine>	
+<http://dbpedia.org/resource/David_Hilbert>:1	
+<http://dbpedia.org/resource/Jakob_Sigismund_Beck>
+<http://dbpedia.org/resource/Family_therapy>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/Ernst_Mach>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/T._K._Seung>	<http://dbpedia.org/resource/David_Hilbert>	
+<http://dbpedia.org/resource/David_Hilbert>:1	
+<http://dbpedia.org/resource/Jakob_Sigismund_Beck>
+<http://dbpedia.org/resource/John_Haynes_Holmes>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Voltaire>	<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>	<http://dbpedia.org/resource/Jacques_Bouveresse>	<http://dbpedia.org/resource/Jean_Bricmont>	<http://dbpedia.org/resource/William_Irwin_Thompson>	<http://dbpedia.org/resource/Heinz_von_Foerster>	
+<http://dbpedia.org/resource/David_Hilbert>:1	
+<http://dbpedia.org/resource/Jakob_Sigismund_Beck>
+<http://dbpedia.org/resource/George_Bernard_Shaw>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Wolfgang_Pauli>	<http://dbpedia.org/resource/Lise_Meitner>	<http://dbpedia.org/resource/David_Chalmers>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Igor_Kurchatov>	<http://dbpedia.org/resource/Frédéric_Joliot-Curie>	<http://dbpedia.org/resource/Immanuel_Kant>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	
+<http://dbpedia.org/resource/David_Hilbert>:1	
+<http://dbpedia.org/resource/Francis_Jeffrey>
+<http://dbpedia.org/resource/Stephen_Nachmanovitch>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/Leo_Strauss>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Francis_Jeffrey>
+<http://dbpedia.org/resource/Arthur_Brisbane>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Lyndon_LaRouche>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/Gottfried_Wilhelm_von_Leibniz>	<http://dbpedia.org/resource/Carl_Friedrich_Gauss>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Francis_Jeffrey>
+<http://dbpedia.org/resource/Philip_Abelson>	<http://dbpedia.org/resource/Enrico_Fermi>	<http://dbpedia.org/resource/Carl_Whitaker>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/Simon_Blackburn>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Georg_Bernhard_Bilfinger>	<http://dbpedia.org/resource/Mikhail_Lomonosov>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Francis_Jeffrey>
+<http://dbpedia.org/resource/Giambattista_Vico>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/Michael_Friedländer>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/John_Stuart_Mill>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Charles_Sanders_Peirce>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/William_Thomson,_1st_Baron_Kelvin>	<http://dbpedia.org/resource/Rudolf_Clausius>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Herbert_A._Simon>
+<http://dbpedia.org/resource/Zygmunt_Florenty_Wróblewski>	<http://dbpedia.org/resource/Willem_Hendrik_Keesom>	<http://dbpedia.org/resource/Friedrich_Nietzsche>	<http://dbpedia.org/resource/David_Hilbert>	
+<http://dbpedia.org/resource/Albert_Einstein>:1	
+<http://dbpedia.org/resource/Herbert_A._Simon>
+<http://dbpedia.org/resource/Paul_Tannery>	<http://dbpedia.org/resource/Élie_Cartan>	<http://dbpedia.org/resource/Ludwig_Wittgenstein>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Visual_anthropology>	<http://dbpedia.org/resource/Heinz_von_Foerster>	
+<http://dbpedia.org/resource/Albert_Einstein>:1	
+<http://dbpedia.org/resource/Herbert_A._Simon>
+<http://dbpedia.org/resource/Immanuel_Kant>	<http://dbpedia.org/resource/Leonhard_Euler>	<http://dbpedia.org/resource/Werner_Heisenberg>	<http://dbpedia.org/resource/Paul_Dirac>	<http://dbpedia.org/resource/Communication_theory>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/Arthur_Schopenhauer>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Albert_Einstein>:1	
+<http://dbpedia.org/resource/Herbert_A._Simon>
+<http://dbpedia.org/resource/Alexander_Graham_Bell>	<http://dbpedia.org/resource/William_Sturgeon>	<http://dbpedia.org/resource/Leo_Strauss>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Francis_Jeffrey>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/Wolfgang_Pauli>	<http://dbpedia.org/resource/Paul_Dirac>	<http://dbpedia.org/resource/Franz_Oppenheimer>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Albert_Einstein>:1	
+<http://dbpedia.org/resource/Leo_Strauss>
+<http://dbpedia.org/resource/Denis_Diderot>	<http://dbpedia.org/resource/Leonhard_Euler>	<http://dbpedia.org/resource/Herbert_Feigl>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Isaac_Newton>:1	<http://dbpedia.org/resource/Albert_Einstein>:1	<http://dbpedia.org/resource/David_Hilbert>:1	
+<http://dbpedia.org/resource/Leo_Strauss>
+<http://dbpedia.org/resource/Friedrich_Nietzsche>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Fritz_London>	<http://dbpedia.org/resource/James_Dewar>	<http://dbpedia.org/resource/Igor_Kurchatov>	<http://dbpedia.org/resource/Frédéric_Joliot-Curie>	
+<http://dbpedia.org/resource/Isaac_Newton>:1	<http://dbpedia.org/resource/Albert_Einstein>:1	<http://dbpedia.org/resource/David_Hilbert>:1	
+<http://dbpedia.org/resource/Leo_Strauss>
+<http://dbpedia.org/resource/Noam_Chomsky>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Isabelle_Stengers>	<http://dbpedia.org/resource/Ilya_Prigogine>	<http://dbpedia.org/resource/Georges-Louis_Leclerc,_comte_de_Buffon>	<http://dbpedia.org/resource/Leonhard_Euler>	<http://dbpedia.org/resource/Arno_Penzias>	<http://dbpedia.org/resource/Robert_Woodrow_Wilson>	
+<http://dbpedia.org/resource/Isaac_Newton>:1	<http://dbpedia.org/resource/Albert_Einstein>:1	<http://dbpedia.org/resource/David_Hilbert>:1	
+<http://dbpedia.org/resource/Leo_Strauss>
+<http://dbpedia.org/resource/Systemic_coaching>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/Ludwig_Boltzmann>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Gabriel_Wagner>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/Baruch_Spinoza>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Emer_de_Vattel>	<http://dbpedia.org/resource/Mikhail_Lomonosov>	
+<http://dbpedia.org/resource/Isaac_Newton>:1	<http://dbpedia.org/resource/Albert_Einstein>:1	<http://dbpedia.org/resource/David_Hilbert>:1	
+<http://dbpedia.org/resource/W._V._O._Quine>
+<http://dbpedia.org/resource/Antonio_Negri>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Karl_Herzfeld>	<http://dbpedia.org/resource/Léon_Brillouin>	
+<http://dbpedia.org/resource/Ilya_Prigogine>:1	
+<http://dbpedia.org/resource/W._V._O._Quine>
+<http://dbpedia.org/resource/Bradford_Keeney>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/David_Bohm>	<http://dbpedia.org/resource/Ilya_Prigogine>	<http://dbpedia.org/resource/Slavoj_Zizek>	<http://dbpedia.org/resource/Isaac_Newton>	
+<http://dbpedia.org/resource/Ilya_Prigogine>:1	
+<http://dbpedia.org/resource/W._V._O._Quine>
+<http://dbpedia.org/resource/Thomas_Hobbes>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Friedrich_Heinrich_Jacobi>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Wolfgang_Pauli>	<http://dbpedia.org/resource/Lise_Meitner>	<http://dbpedia.org/resource/Sydney_Brenner>	<http://dbpedia.org/resource/Francis_Crick>	
+<http://dbpedia.org/resource/Ilya_Prigogine>:1	
+<http://dbpedia.org/resource/W._V._O._Quine>
+<http://dbpedia.org/resource/Benjamin_Franklin>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Michel_Foucault>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Charles_Bonnet>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/Thomas_Jefferson>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Carl_Whitaker>	<http://dbpedia.org/resource/Heinz_von_Foerster>	
+<http://dbpedia.org/resource/Ilya_Prigogine>:1	
+<http://dbpedia.org/resource/Friedrich_Wilhelm_Joseph_Schelling>
+<http://dbpedia.org/resource/Willem_Hendrik_Keesom>	<http://dbpedia.org/resource/Fritz_London>	<http://dbpedia.org/resource/William_Thomson,_1st_Baron_Kelvin>	<http://dbpedia.org/resource/Julian_Schwinger>	
+<http://dbpedia.org/resource/David_Hilbert>:1	
+<http://dbpedia.org/resource/Friedrich_Wilhelm_Joseph_Schelling>
+<http://dbpedia.org/resource/Bill_Moyers>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Heike_Kamerlingh_Onnes>	<http://dbpedia.org/resource/Willem_Hendrik_Keesom>	<http://dbpedia.org/resource/Mário_Ferreira_dos_Santos>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	
+<http://dbpedia.org/resource/David_Hilbert>:1	
+<http://dbpedia.org/resource/Friedrich_Wilhelm_Joseph_Schelling>
+<http://dbpedia.org/resource/Joxe_Azurmendi>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Alexander_Hamilton>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/David_Hume>	<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>	<http://dbpedia.org/resource/James_Joyce>	<http://dbpedia.org/resource/Isaac_Newton>	
+<http://dbpedia.org/resource/David_Hilbert>:1	
+<http://dbpedia.org/resource/Friedrich_Wilhelm_Joseph_Schelling>
+<http://dbpedia.org/resource/Thomas_Hobbes>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Alan_Guth>	<http://dbpedia.org/resource/Robert_Woodrow_Wilson>	<http://dbpedia.org/resource/Martin_Heidegger>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Raymond_Smullyan>	<http://dbpedia.org/resource/Douglas_Hofstadter>	<http://dbpedia.org/resource/Max_Delbrück>	<http://dbpedia.org/resource/Lise_Meitner>	
+<http://dbpedia.org/resource/David_Hilbert>:1	
+<http://dbpedia.org/resource/Paul_Dirac>
+<http://dbpedia.org/resource/Peter_Debye>	<http://dbpedia.org/resource/Willem_Hendrik_Keesom>	<http://dbpedia.org/resource/Werner_Heisenberg>	<http://dbpedia.org/resource/Wolfgang_Pauli>	
+<http://dbpedia.org/resource/Wolfgang_Pauli>:1	<http://dbpedia.org/resource/Lise_Meitner>:1	
+<http://dbpedia.org/resource/Paul_Dirac>
+<http://dbpedia.org/resource/Emilio_Segrè>	<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>	<http://dbpedia.org/resource/Ida_Tarbell>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Jakob_Sigismund_Beck>	<http://dbpedia.org/resource/David_Hilbert>	
+<http://dbpedia.org/resource/Wolfgang_Pauli>:1	<http://dbpedia.org/resource/Lise_Meitner>:1	
+<http://dbpedia.org/resource/Paul_Dirac>
+<http://dbpedia.org/resource/Edmund_Husserl>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Gottlob_Frege>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/Immanuel_Kant>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Thomas_Jefferson>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Wolfgang_Pauli>:1	<http://dbpedia.org/resource/Lise_Meitner>:1	
+<http://dbpedia.org/resource/Paul_Dirac>
+<http://dbpedia.org/resource/Martin_Heidegger>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Herbert_A._Simon>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/William_James>	<http://dbpedia.org/resource/Wolfgang_Pauli>	<http://dbpedia.org/resource/Edmund_Husserl>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/James_Dewar>	<http://dbpedia.org/resource/Peter_Debye>	
+<http://dbpedia.org/resource/Wolfgang_Pauli>:1	<http://dbpedia.org/resource/Lise_Meitner>:1	
+<http://dbpedia.org/resource/Georg_Bernhard_Bilfinger>
+<http://dbpedia.org/resource/Immanuel_Kant>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/Talcott_Parsons>	<http://dbpedia.org/resource/Ilya_Prigogine>	
+<http://dbpedia.org/resource/Mikhail_Lomonosov>:1	
+<http://dbpedia.org/resource/Georg_Bernhard_Bilfinger>
+<http://dbpedia.org/resource/John_Haynes_Holmes>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Jay_Haley>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/Joxe_Azurmendi>	<http://dbpedia.org/resource/David_Hilbert>	
+<http://dbpedia.org/resource/Mikhail_Lomonosov>:1	
+<http://dbpedia.org/resource/Georg_Bernhard_Bilfinger>
+<http://dbpedia.org/resource/Ray_Hyman>	<http://dbpedia.org/resource/Douglas_Hofstadter>	<http://dbpedia.org/resource/Émile_Borel>	<http://dbpedia.org/resource/Élie_Cartan>	<http://dbpedia.org/resource/Joseph-Louis_Lagrange>	<http://dbpedia.org/resource/Carl_Friedrich_Gauss>	<http://dbpedia.org/resource/Michael_Friedländer>	<http://dbpedia.org/resource/Isaac_Newton>	
+<http://dbpedia.org/resource/Mikhail_Lomonosov>:1	
+<http://dbpedia.org/resource/Georg_Bernhard_Bilfinger>
+<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Wolfgang_Pauli>	<http://dbpedia.org/resource/Johann_Gottlieb_Fichte>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Immanuel_Kant>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Joseph_W._Kennedy>	<http://dbpedia.org/resource/Enrico_Fermi>	<http://dbpedia.org/resource/Georgy_Flyorov>	<http://dbpedia.org/resource/Konstantin_Petrzhak>	
+<http://dbpedia.org/resource/Mikhail_Lomonosov>:1	
+<http://dbpedia.org/resource/Communication_theory>
+<http://dbpedia.org/resource/Karl_Popper>	<http://dbpedia.org/resource/Otto_Fritz_Meyerhof>	<http://dbpedia.org/resource/Giambattista_Vico>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Communication_theory>
+<http://dbpedia.org/resource/Wolfgang_Pauli>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/David_J._Wineland>	<http://dbpedia.org/resource/Eric_Allin_Cornell>	<http://dbpedia.org/resource/Louis_de_Bonald>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Communication_theory>
+<http://dbpedia.org/resource/Sigmund_Freud>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Edward_Samuel_Ritchie>	<http://dbpedia.org/resource/William_Sturgeon>	<http://dbpedia.org/resource/Enrico_Fermi>	<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>	<http://dbpedia.org/resource/Raymond_Smullyan>	<http://dbpedia.org/resource/Douglas_Hofstadter>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Communication_theory>
+<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>	<http://dbpedia.org/resource/Enrico_Fermi>	<http://dbpedia.org/resource/Enrico_Fermi>	<http://dbpedia.org/resource/Frédéric_Joliot-Curie>	<http://dbpedia.org/resource/Leo_Strauss>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Zygmunt_Florenty_Wróblewski>	<http://dbpedia.org/resource/James_Dewar>	<http://dbpedia.org/resource/John_Haynes_Holmes>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/George_Santayana>
+<http://dbpedia.org/resource/James_Dewar>	<http://dbpedia.org/resource/Peter_Debye>	<http://dbpedia.org/resource/Pierre_de_Fermat>	<http://dbpedia.org/resource/Carl_Friedrich_Gauss>	
+<http://dbpedia.org/resource/Albert_Einstein>:1	
+<http://dbpedia.org/resource/George_Santayana>
+<http://dbpedia.org/resource/Nikolay_Semyonov>	<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>	<http://dbpedia.org/resource/Max_Weber>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Fichte>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Albert_Einstein>:1	
+<http://dbpedia.org/resource/George_Santayana>
+<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Ludwig_Boltzmann>	<http://dbpedia.org/resource/Giambattista_Vico>	<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>	<http://dbpedia.org/resource/Isaak_Kikoin>	<http://dbpedia.org/resource/Frédéric_Joliot-Curie>	<http://dbpedia.org/resource/Grant_Allen>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Albert_Einstein>:1	
+<http://dbpedia.org/resource/George_Santayana>
+<http://dbpedia.org/resource/Sewall_Wright>	<http://dbpedia.org/resource/Ilya_Prigogine>	<http://dbpedia.org/resource/Isaak_Kikoin>	<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>	<http://dbpedia.org/resource/Leszek_Kołakowski>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/David_J._Wineland>	<http://dbpedia.org/resource/William_Daniel_Phillips>	<http://dbpedia.org/resource/Johannes_Nikolaus_Tetens>	<http://dbpedia.org/resource/Mikhail_Lomonosov>	
+<http://dbpedia.org/resource/Albert_Einstein>:1	
+<http://dbpedia.org/resource/Richard_Bandler>
+<http://dbpedia.org/resource/Johannes_Nikolaus_Tetens>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/David_J._Wineland>	<http://dbpedia.org/resource/John_L._Hall>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Richard_Bandler>
+<http://dbpedia.org/resource/Leo_Tolstoy>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Werner_Heisenberg>	<http://dbpedia.org/resource/Lise_Meitner>	<http://dbpedia.org/resource/James_Dewar>	<http://dbpedia.org/resource/Heike_Kamerlingh_Onnes>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Richard_Bandler>
+<http://dbpedia.org/resource/Léon_Brillouin>	<http://dbpedia.org/resource/John_Bardeen>	<http://dbpedia.org/resource/Zygmunt_Florenty_Wróblewski>	<http://dbpedia.org/resource/James_Dewar>	<http://dbpedia.org/resource/Edmund_Husserl>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Bill_Moyers>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Richard_Bandler>
+<http://dbpedia.org/resource/Steven_Connor>	<http://dbpedia.org/resource/Ilya_Prigogine>	<http://dbpedia.org/resource/Baruch_Spinoza>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Sharon_Traweek>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/Gottfried_Wilhelm_von_Leibniz>	<http://dbpedia.org/resource/Carl_Friedrich_Gauss>	<http://dbpedia.org/resource/Gottfried_Leibniz>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Marvin_Minsky>
+<http://dbpedia.org/resource/Heike_Kamerlingh_Onnes>	<http://dbpedia.org/resource/James_Dewar>	<http://dbpedia.org/resource/Bernardino_Varisco>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	
+<http://dbpedia.org/resource/Douglas_Hofstadter>:1	
+<http://dbpedia.org/resource/Marvin_Minsky>
+<http://dbpedia.org/resource/Gregory_Chaitin>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/Kurt_Gödel>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/William_Daniel_Phillips>	<http://dbpedia.org/resource/Eric_Allin_Cornell>	
+<http://dbpedia.org/resource/Douglas_Hofstadter>:1	
+<http://dbpedia.org/resource/Marvin_Minsky>
+<http://dbpedia.org/resource/Wilhelm_Kienzl>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Patrick_Suppes>	<http://dbpedia.org/resource/Douglas_Hofstadter>	<http://dbpedia.org/resource/August_Wilhelm_Schlegel>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Social_sciences>	<http://dbpedia.org/resource/Heinz_von_Foerster>	
+<http://dbpedia.org/resource/Douglas_Hofstadter>:1	
+<http://dbpedia.org/resource/Marvin_Minsky>
+<http://dbpedia.org/resource/Willem_Hendrik_Keesom>	<http://dbpedia.org/resource/Peter_Debye>	<http://dbpedia.org/resource/William_Vickrey>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Alexander_Bruce,_2nd_Earl_of_Kincardine>	<http://dbpedia.org/resource/Christiaan_Huygens>	<http://dbpedia.org/resource/Nicholas_Rescher>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/Spinoza>	<http://dbpedia.org/resource/Isaac_Newton>	
+<http://dbpedia.org/resource/Douglas_Hofstadter>:1	
+<http://dbpedia.org/resource/Encyclopédistes>
+<http://dbpedia.org/resource/Johannes_Nikolaus_Tetens>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/Family_therapy>	<http://dbpedia.org/resource/Heinz_von_Foerster>	
+<http://dbpedia.org/resource/Isaac_Newton>:1	
+<http://dbpedia.org/resource/Encyclopédistes>
+<http://dbpedia.org/resource/Rolf_Nevanlinna>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Bernardino_Varisco>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/Isaac_Levi>	<http://dbpedia.org/resource/Douglas_Hofstadter>	
+<http://dbpedia.org/resource/Isaac_Newton>:1	
+<http://dbpedia.org/resource/Encyclopédistes>
+<http://dbpedia.org/resource/Emer_de_Vattel>	<http://dbpedia.org/resource/Mikhail_Lomonosov>	<http://dbpedia.org/resource/Simon_Blackburn>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Spinoza>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Maurice_Merleau-Ponty>	<http://dbpedia.org/resource/Ilya_Prigogine>	
+<http://dbpedia.org/resource/Isaac_Newton>:1	
+<http://dbpedia.org/resource/Encyclopédistes>
+<http://dbpedia.org/resource/Michel_Foucault>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Paul_Tannery>	<http://dbpedia.org/resource/Élie_Cartan>	<http://dbpedia.org/resource/John_Flamsteed>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Igor_Kurchatov>	<http://dbpedia.org/resource/Frédéric_Joliot-Curie>	<http://dbpedia.org/resource/Fichte>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Isaac_Newton>:1	
+<http://dbpedia.org/resource/Jacques_Bouveresse>
+<http://dbpedia.org/resource/Conrad_Hal_Waddington>	<http://dbpedia.org/resource/Ilya_Prigogine>	<http://dbpedia.org/resource/Willem_Hendrik_Keesom>	<http://dbpedia.org/resource/Fritz_London>	
+<http://dbpedia.org/resource/Jean_Bricmont>:1	
+<http://dbpedia.org/resource/Jacques_Bouveresse>
+<http://dbpedia.org/resource/J._L._Mackie>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Jacques-Bénigne_Bossuet>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Gottfried_Wilhelm_von_Leibniz>	<http://dbpedia.org/resource/Carl_Friedrich_Gauss>	
+<http://dbpedia.org/resource/Jean_Bricmont>:1	
+<http://dbpedia.org/resource/Jacques_Bouveresse>
+<http://dbpedia.org/resource/Emilio_Segrè>	<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>	<http://dbpedia.org/resource/Gabriel_Wagner>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Wolfgang_Pauli>	<http://dbpedia.org/resource/Ludwig_Boltzmann>	<http://dbpedia.org/resource/Paul_Guyer>	<http://dbpedia.org/resource/David_Hilbert>	
+<http://dbpedia.org/resource/Jean_Bricmont>:1	
+<http://dbpedia.org/resource/Jacques_Bouveresse>
+<http://dbpedia.org/resource/James_Madison>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Karl_Popper>	<http://dbpedia.org/resource/Otto_Fritz_Meyerhof>	<http://dbpedia.org/resource/Réda_Benkirane>	<http://dbpedia.org/resource/Ilya_Prigogine>	<http://dbpedia.org/resource/Wilhelm_Kienzl>	<http://dbpedia.org/resource/Ludwig_Boltzmann>	<http://dbpedia.org/resource/Bradford_Keeney>	<http://dbpedia.org/resource/Heinz_von_Foerster>	
+<http://dbpedia.org/resource/Jean_Bricmont>:1	
+<http://dbpedia.org/resource/Frederick_the_Great>
+<http://dbpedia.org/resource/August_Wilhelm_Schlegel>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/James_Gregory_(mathematician)>	<http://dbpedia.org/resource/Isaac_Newton>	
+<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>:1	
+<http://dbpedia.org/resource/Frederick_the_Great>
+<http://dbpedia.org/resource/William_Daniel_Phillips>	<http://dbpedia.org/resource/Eric_Allin_Cornell>	<http://dbpedia.org/resource/Gabriel_Wagner>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Ludwig_Boltzmann>	<http://dbpedia.org/resource/Wolfgang_Pauli>	
+<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>:1	
+<http://dbpedia.org/resource/Frederick_the_Great>
+<http://dbpedia.org/resource/Benoit_Mandelbrot>	<http://dbpedia.org/resource/Pierre-Gilles_de_Gennes>	<http://dbpedia.org/resource/Max_Delbrück>	<http://dbpedia.org/resource/Paul_Dirac>	<http://dbpedia.org/resource/Ethnicity>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/Martin_Heidegger>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	
+<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>:1	
+<http://dbpedia.org/resource/Frederick_the_Great>
+<http://dbpedia.org/resource/Nikolay_Semyonov>	<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>	<http://dbpedia.org/resource/Maurice_Merleau-Ponty>	<http://dbpedia.org/resource/Ilya_Prigogine>	<http://dbpedia.org/resource/Karl_Herzfeld>	<http://dbpedia.org/resource/Léon_Brillouin>	<http://dbpedia.org/resource/James_Ivory_(mathematician)>	<http://dbpedia.org/resource/John_Leslie_(physicist)>	<http://dbpedia.org/resource/Joseph-Louis_Lagrange>	<http://dbpedia.org/resource/Isaac_Newton>	
+<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>:1	
+<http://dbpedia.org/resource/Social_sciences>
+<http://dbpedia.org/resource/Karl_Popper>	<http://dbpedia.org/resource/Otto_Fritz_Meyerhof>	<http://dbpedia.org/resource/David_J._Wineland>	<http://dbpedia.org/resource/John_L._Hall>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Social_sciences>
+<http://dbpedia.org/resource/Georg_Friedrich_Meier>	<http://dbpedia.org/resource/Mikhail_Lomonosov>	<http://dbpedia.org/resource/James_Ivory_(mathematician)>	<http://dbpedia.org/resource/John_Leslie_(physicist)>	<http://dbpedia.org/resource/Albert_Ghiorso>	<http://dbpedia.org/resource/Frédéric_Joliot-Curie>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Social_sciences>
+<http://dbpedia.org/resource/Wolfgang_Pauli>	<http://dbpedia.org/resource/Lise_Meitner>	<http://dbpedia.org/resource/Jules_Vuillemin>	<http://dbpedia.org/resource/Ilya_Prigogine>	<http://dbpedia.org/resource/Mario_Bunge>	<http://dbpedia.org/resource/Douglas_Hofstadter>	<http://dbpedia.org/resource/Frederick_the_Great>	<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Social_sciences>
+<http://dbpedia.org/resource/Steven_Weinberg>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Willem_Hendrik_Keesom>	<http://dbpedia.org/resource/Heike_Kamerlingh_Onnes>	<http://dbpedia.org/resource/Paul_Dirac>	<http://dbpedia.org/resource/Lise_Meitner>	<http://dbpedia.org/resource/Western_philosophy>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Nicholas_Rescher>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	
+<http://dbpedia.org/resource/Heinz_von_Foerster>:1	
+<http://dbpedia.org/resource/Hermann_Lotze>
+<http://dbpedia.org/resource/Donald_Davidson_(philosopher)>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Jerry_Brown>	<http://dbpedia.org/resource/Heinz_von_Foerster>	
+<http://dbpedia.org/resource/Otto_Fritz_Meyerhof>:1	
+<http://dbpedia.org/resource/Hermann_Lotze>
+<http://dbpedia.org/resource/Mou_Zongsan>	<http://dbpedia.org/resource/David_Hilbert>	<http://dbpedia.org/resource/Mário_Ferreira_dos_Santos>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/Joseph_W._Kennedy>	<http://dbpedia.org/resource/Enrico_Fermi>	
+<http://dbpedia.org/resource/Otto_Fritz_Meyerhof>:1	
+<http://dbpedia.org/resource/Hermann_Lotze>
+<http://dbpedia.org/resource/John_Napier>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Wolfgang_Pauli>	<http://dbpedia.org/resource/Paul_Dirac>	<http://dbpedia.org/resource/F._S._C._Northrop>	<http://dbpedia.org/resource/Ilya_Prigogine>	<http://dbpedia.org/resource/Johannes_Nikolaus_Tetens>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Otto_Fritz_Meyerhof>:1	
+<http://dbpedia.org/resource/Hermann_Lotze>
+<http://dbpedia.org/resource/Heike_Kamerlingh_Onnes>	<http://dbpedia.org/resource/Peter_Debye>	<http://dbpedia.org/resource/Theodore_Adorno>	<http://dbpedia.org/resource/Émilie_du_Châtelet>	<http://dbpedia.org/resource/Neuro-linguistic_programming>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/Blaise_Pascal>	<http://dbpedia.org/resource/Carl_Friedrich_Gauss>	<http://dbpedia.org/resource/Michael_Shermer>	<http://dbpedia.org/resource/Douglas_Hofstadter>	
+<http://dbpedia.org/resource/Otto_Fritz_Meyerhof>:1	
+<http://dbpedia.org/resource/Jeremiah_Stamler>
+<http://dbpedia.org/resource/Gottfried_Wilhelm_von_Leibniz>	<http://dbpedia.org/resource/Carl_Friedrich_Gauss>	<http://dbpedia.org/resource/Carl_Whitaker>	<http://dbpedia.org/resource/Heinz_von_Foerster>	
+<http://dbpedia.org/resource/Isaac_Newton>:1	
+<http://dbpedia.org/resource/Jeremiah_Stamler>
+<http://dbpedia.org/resource/Lise_Meitner>	<http://dbpedia.org/resource/Paul_Dirac>	<http://dbpedia.org/resource/Albert_Ghiorso>	<http://dbpedia.org/resource/Enrico_Fermi>	<http://dbpedia.org/resource/Karl_Leonhard_Reinhold>	<http://dbpedia.org/resource/David_Hilbert>	
+<http://dbpedia.org/resource/Isaac_Newton>:1	
+<http://dbpedia.org/resource/Jeremiah_Stamler>
+<http://dbpedia.org/resource/Franklin_D._Roosevelt>	<http://dbpedia.org/resource/Albert_Einstein>	<http://dbpedia.org/resource/Jules_Vuillemin>	<http://dbpedia.org/resource/Ilya_Prigogine>	<http://dbpedia.org/resource/Zygmunt_Florenty_Wróblewski>	<http://dbpedia.org/resource/Peter_Debye>	<http://dbpedia.org/resource/Enrico_Fermi>	<http://dbpedia.org/resource/Yulii_Borisovich_Khariton>	
+<http://dbpedia.org/resource/Isaac_Newton>:1	
+<http://dbpedia.org/resource/Jeremiah_Stamler>
+<http://dbpedia.org/resource/William_Petty>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/Georgy_Flyorov>	<http://dbpedia.org/resource/Konstantin_Petrzhak>	<http://dbpedia.org/resource/Joseph-Louis_Lagrange>	<http://dbpedia.org/resource/Carl_Friedrich_Gauss>	<http://dbpedia.org/resource/Werner_Heisenberg>	<http://dbpedia.org/resource/Lise_Meitner>	<http://dbpedia.org/resource/Franz_Oppenheimer>	<http://dbpedia.org/resource/Albert_Einstein>	
+<http://dbpedia.org/resource/Isaac_Newton>:1	
+<http://dbpedia.org/resource/David_Hume>
+<http://dbpedia.org/resource/Johannes_Nikolaus_Tetens>	<http://dbpedia.org/resource/Mikhail_Lomonosov>	<http://dbpedia.org/resource/Johann_Gottlieb_Fichte>	<http://dbpedia.org/resource/Isaac_Newton>	
+<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>:1	<http://dbpedia.org/resource/Émilie_du_Châtelet>:1	
+<http://dbpedia.org/resource/David_Hume>
+<http://dbpedia.org/resource/Paul_Watzlawick>	<http://dbpedia.org/resource/Heinz_von_Foerster>	<http://dbpedia.org/resource/Philip_Abelson>	<http://dbpedia.org/resource/Frédéric_Joliot-Curie>	<http://dbpedia.org/resource/Johann_Heinrich_Samuel_Formey>	<http://dbpedia.org/resource/Mikhail_Lomonosov>	
+<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>:1	<http://dbpedia.org/resource/Émilie_du_Châtelet>:1	
+<http://dbpedia.org/resource/David_Hume>
+<http://dbpedia.org/resource/Voltaire>	<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>	<http://dbpedia.org/resource/James_Gregory_(mathematician)>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/David_J._Wineland>	<http://dbpedia.org/resource/Eric_Allin_Cornell>	<http://dbpedia.org/resource/Heike_Kamerlingh_Onnes>	<http://dbpedia.org/resource/James_Dewar>	
+<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>:1	<http://dbpedia.org/resource/Émilie_du_Châtelet>:1	
+<http://dbpedia.org/resource/David_Hume>
+<http://dbpedia.org/resource/Giambattista_Vico>	<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>	<http://dbpedia.org/resource/John_Flamsteed>	<http://dbpedia.org/resource/Isaac_Newton>	<http://dbpedia.org/resource/David_J._Wineland>	<http://dbpedia.org/resource/John_L._Hall>	<http://dbpedia.org/resource/James_Dewar>	<http://dbpedia.org/resource/Peter_Debye>	<http://dbpedia.org/resource/Lord_Kelvin>	<http://dbpedia.org/resource/Michael_Faraday>	
+<http://dbpedia.org/resource/Pierre_Louis_Maupertuis>:1	<http://dbpedia.org/resource/Émilie_du_Châtelet>:1

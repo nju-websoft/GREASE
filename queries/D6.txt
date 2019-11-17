@@ -1,0 +1,240 @@
+<http://dbpedia.org/resource/Tanya_Chisholm>
+<http://dbpedia.org/resource/Suzanne_Pleshette>	<http://dbpedia.org/resource/The_Faculty_(TV_series)>	<http://dbpedia.org/resource/Pat_Delaney_(actor)>	<http://dbpedia.org/resource/Young_Maverick>	
+<http://dbpedia.org/resource/The_Last_Halloween>:1	<http://dbpedia.org/resource/A_Fairly_Odd_Christmas>:1	<http://dbpedia.org/resource/A_Fairly_Odd_Movie:_Grow_Up,_Timmy_Turner!>:1	<http://dbpedia.org/resource/A_Fairly_Odd_Summer>:1	
+<http://dbpedia.org/resource/Tanya_Chisholm>
+<http://dbpedia.org/resource/Julia_Barretto>	<http://dbpedia.org/resource/Till_I_Met_You_(TV_series)>	<http://dbpedia.org/resource/Mickey_Rooney>	<http://dbpedia.org/resource/Young_Maverick>	<http://dbpedia.org/resource/Franco_Nero>	<http://dbpedia.org/resource/White_Teeth_(TV_serial)>	
+<http://dbpedia.org/resource/The_Last_Halloween>:1	<http://dbpedia.org/resource/A_Fairly_Odd_Christmas>:1	<http://dbpedia.org/resource/A_Fairly_Odd_Movie:_Grow_Up,_Timmy_Turner!>:1	<http://dbpedia.org/resource/A_Fairly_Odd_Summer>:1	
+<http://dbpedia.org/resource/Tanya_Chisholm>
+<http://dbpedia.org/resource/Brock_Peters>	<http://dbpedia.org/resource/The_New_Fred_and_Barney_Show>	<http://dbpedia.org/resource/Casey_Kasem>	<http://dbpedia.org/resource/Fantastic_Max>	<http://dbpedia.org/resource/Barbara_Eden>	<http://dbpedia.org/resource/The_Dennis_O''Keefe_Show>	<http://dbpedia.org/resource/Keith_Barron>	<http://dbpedia.org/resource/Take_Three_Girls>	
+<http://dbpedia.org/resource/The_Last_Halloween>:1	<http://dbpedia.org/resource/A_Fairly_Odd_Christmas>:1	<http://dbpedia.org/resource/A_Fairly_Odd_Movie:_Grow_Up,_Timmy_Turner!>:1	<http://dbpedia.org/resource/A_Fairly_Odd_Summer>:1	
+<http://dbpedia.org/resource/Tanya_Chisholm>
+<http://dbpedia.org/resource/Nadine_Samonte>	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>	<http://dbpedia.org/resource/Michael_Milhoan>	<http://dbpedia.org/resource/Party_Down>	<http://dbpedia.org/resource/Brian_Lando>	<http://dbpedia.org/resource/Do_Over>	<http://dbpedia.org/resource/Telly_Savalas>	<http://dbpedia.org/resource/The_Smurfs_(TV_series)>	<http://dbpedia.org/resource/Michael_Winslow>	<http://dbpedia.org/resource/Ed_Grimley__The_Completely_Mental_Misadventures_of_Ed_Grimley__1>	
+<http://dbpedia.org/resource/The_Last_Halloween>:1	<http://dbpedia.org/resource/A_Fairly_Odd_Christmas>:1	<http://dbpedia.org/resource/A_Fairly_Odd_Movie:_Grow_Up,_Timmy_Turner!>:1	<http://dbpedia.org/resource/A_Fairly_Odd_Summer>:1	
+<http://dbpedia.org/resource/Eileen_Atkins>
+<http://dbpedia.org/resource/David_Ogden_Stiers>	<http://dbpedia.org/resource/The_Twisted_Tales_of_Felix_the_Cat>	<http://dbpedia.org/resource/Heather_North>	<http://dbpedia.org/resource/Galaxy_Goof-Ups>	
+<http://dbpedia.org/resource/Crisis_in_Six_Scenes>:1	<http://dbpedia.org/resource/Gangsta_Granny_(film)>:1	
+<http://dbpedia.org/resource/Eileen_Atkins>
+<http://dbpedia.org/resource/Sheree_North>	<http://dbpedia.org/resource/Temple_Houston_(TV_series)>	<http://dbpedia.org/resource/Gary_Valenciano>	<http://dbpedia.org/resource/Kaya_ni_Mister,_Kaya_ni_Misis>	<http://dbpedia.org/resource/Lou_Richards_(actor)>	<http://dbpedia.org/resource/Scooby''s_All-Star_Laff-A-Lympics>	
+<http://dbpedia.org/resource/Crisis_in_Six_Scenes>:1	<http://dbpedia.org/resource/Gangsta_Granny_(film)>:1	
+<http://dbpedia.org/resource/Eileen_Atkins>
+<http://dbpedia.org/resource/Krystal_Reyes>	<http://dbpedia.org/resource/My_BFF_(TV_series)>	<http://dbpedia.org/resource/Jere_Burns>	<http://dbpedia.org/resource/Carol_&_Company>	<http://dbpedia.org/resource/James_Spader>	<http://dbpedia.org/resource/Ocean''s_Trilogy>	<http://dbpedia.org/resource/Lawrence_Leung>	<http://dbpedia.org/resource/The_Elegant_Gentleman''s_Guide_to_Knife_Fighting>	
+<http://dbpedia.org/resource/Crisis_in_Six_Scenes>:1	<http://dbpedia.org/resource/Gangsta_Granny_(film)>:1	
+<http://dbpedia.org/resource/Eileen_Atkins>
+<http://dbpedia.org/resource/Telly_Savalas>	<http://dbpedia.org/resource/Yogi''s_Space_Race>	<http://dbpedia.org/resource/Richard_Dawson>	<http://dbpedia.org/resource/The_Ruff_and_Reddy_Show>	<http://dbpedia.org/resource/Charles_Kimbrough>	<http://dbpedia.org/resource/The_Pink_Panther_(1993_TV_series)>	<http://dbpedia.org/resource/Pokwang>	<http://dbpedia.org/resource/Biglang_Sibol,_Bayang_Impasibol>	<http://dbpedia.org/resource/Alexandra_Tydings>	<http://dbpedia.org/resource/The_Twisted_Tales_of_Felix_the_Cat>	
+<http://dbpedia.org/resource/Crisis_in_Six_Scenes>:1	<http://dbpedia.org/resource/Gangsta_Granny_(film)>:1	
+<http://dbpedia.org/resource/Helen_Mack>
+<http://dbpedia.org/resource/Tom_McGowan>	<http://dbpedia.org/resource/The_Army_Show>	<http://dbpedia.org/resource/Robi_Domingo>	<http://dbpedia.org/resource/Pangako_Sa_''Yo_(2015_TV_series)>	
+<http://dbpedia.org/resource/Duel_at_Sundown_(Maverick)>:1	<http://dbpedia.org/resource/Mr._and_Mrs._North>:1	
+<http://dbpedia.org/resource/Helen_Mack>
+<http://dbpedia.org/resource/Pam_Dawber>	<http://dbpedia.org/resource/Galaxy_Goof-Ups>	<http://dbpedia.org/resource/Louane_Emera>	<http://dbpedia.org/resource/H_(TV_series)>	<http://dbpedia.org/resource/Mart_Escudero>	<http://dbpedia.org/resource/Habang_May_Buhay>	
+<http://dbpedia.org/resource/Duel_at_Sundown_(Maverick)>:1	<http://dbpedia.org/resource/Mr._and_Mrs._North>:1	
+<http://dbpedia.org/resource/Helen_Mack>
+<http://dbpedia.org/resource/Paul_O''Keefe>	<http://dbpedia.org/resource/Guestward,_Ho!>	<http://dbpedia.org/resource/Richard_Ayoade>	<http://dbpedia.org/resource/Come_Fly_with_Me_(2010_TV_series)>	<http://dbpedia.org/resource/Hilary_Momberger>	<http://dbpedia.org/resource/The_Charlie_Brown_and_Snoopy_Show>	<http://dbpedia.org/resource/Angelu_De_Leon>	<http://dbpedia.org/resource/Because_of_You_(TV_series)>	
+<http://dbpedia.org/resource/Duel_at_Sundown_(Maverick)>:1	<http://dbpedia.org/resource/Mr._and_Mrs._North>:1	
+<http://dbpedia.org/resource/Helen_Mack>
+<http://dbpedia.org/resource/Diana_Zubiri>	<http://dbpedia.org/resource/My_Driver_Sweet_Lover>	<http://dbpedia.org/resource/Jeff_Bergman>	<http://dbpedia.org/resource/Hi_Hi_Puffy_AmiYumi>	<http://dbpedia.org/resource/Tina_Louise>	<http://dbpedia.org/resource/Shady_Deal_at_Sunny_Acres>	<http://dbpedia.org/resource/Ruslaan_Mumtaz>	<http://dbpedia.org/resource/Malini_Iyer>	<http://dbpedia.org/resource/Lukas_Haas>	<http://dbpedia.org/resource/Crisis_in_Six_Scenes>	
+<http://dbpedia.org/resource/Duel_at_Sundown_(Maverick)>:1	<http://dbpedia.org/resource/Mr._and_Mrs._North>:1	
+<http://dbpedia.org/resource/Olivia_Hack>
+<http://dbpedia.org/resource/Danielle_Panabaker>	<http://dbpedia.org/resource/Itsy_Bitsy_Spider_(TV_series)>	<http://dbpedia.org/resource/Paul_Frees>	<http://dbpedia.org/resource/Dastardly_and_Muttley_in_Their_Flying_Machines>	
+<http://dbpedia.org/resource/Back_at_the_Barnyard>:1	
+<http://dbpedia.org/resource/Olivia_Hack>
+<http://dbpedia.org/resource/Lois_Hall>	<http://dbpedia.org/resource/Mr._and_Mrs._North>	<http://dbpedia.org/resource/Dallas_McKennon>	<http://dbpedia.org/resource/The_U.S._of_Archie>	<http://dbpedia.org/resource/Patrick_Brammall>	<http://dbpedia.org/resource/John_Safran''s_Music_Jamboree>	
+<http://dbpedia.org/resource/Back_at_the_Barnyard>:1	
+<http://dbpedia.org/resource/Olivia_Hack>
+<http://dbpedia.org/resource/Brian_Lando>	<http://dbpedia.org/resource/Swinging_Spiketaculars>	<http://dbpedia.org/resource/Jon_Walmsley>	<http://dbpedia.org/resource/Wacky_Races>	<http://dbpedia.org/resource/Allan_Melvin>	<http://dbpedia.org/resource/Help!..._It''s_the_Hair_Bear_Bunch!>	<http://dbpedia.org/resource/Belle_Bennett>	<http://dbpedia.org/resource/Mr._and_Mrs._North>	
+<http://dbpedia.org/resource/Back_at_the_Barnyard>:1	
+<http://dbpedia.org/resource/Olivia_Hack>
+<http://dbpedia.org/resource/Sam_Concepcion>	<http://dbpedia.org/resource/Kaya_ni_Mister,_Kaya_ni_Misis>	<http://dbpedia.org/resource/Ted_Cassidy>	<http://dbpedia.org/resource/Cattanooga_Cats>	<http://dbpedia.org/resource/Bob_Odenkirk>	<http://dbpedia.org/resource/Funny_or_Die_Presents>	<http://dbpedia.org/resource/Dayanara_Torres>	<http://dbpedia.org/resource/Pangako_Sa_''Yo_(2015_TV_series)>	<http://dbpedia.org/resource/Hal_Sparks>	<http://dbpedia.org/resource/The_Mr._Men_Show>	
+<http://dbpedia.org/resource/Back_at_the_Barnyard>:1	
+<http://dbpedia.org/resource/Letícia_Román>
+<http://dbpedia.org/resource/Michael_Rye>	<http://dbpedia.org/resource/Casper_and_the_Angels>	<http://dbpedia.org/resource/Maurice_Godin_(actor)>	<http://dbpedia.org/resource/Beverly_Hills_Buntz>	
+<http://dbpedia.org/resource/Temple_Houston_(TV_series)>:1	
+<http://dbpedia.org/resource/Letícia_Román>
+<http://dbpedia.org/resource/Ciara_Sotto>	<http://dbpedia.org/resource/Kokey_at_Ako>	<http://dbpedia.org/resource/Patrick_Garcia>	<http://dbpedia.org/resource/Love_Me_Again_(TV_series)>	<http://dbpedia.org/resource/David_Clennon>	<http://dbpedia.org/resource/Luis_(TV_series)>	
+<http://dbpedia.org/resource/Temple_Houston_(TV_series)>:1	
+<http://dbpedia.org/resource/Letícia_Román>
+<http://dbpedia.org/resource/Mario_Maurer>	<http://dbpedia.org/resource/Ysabella>	<http://dbpedia.org/resource/JC_de_Vera>	<http://dbpedia.org/resource/Poor_Señorita>	<http://dbpedia.org/resource/Lauren_Young>	<http://dbpedia.org/resource/Marimar_(2015_TV_series)>	<http://dbpedia.org/resource/Angus_Macfadyen>	<http://dbpedia.org/resource/The_Parent_Trap_II>	
+<http://dbpedia.org/resource/Temple_Houston_(TV_series)>:1	
+<http://dbpedia.org/resource/Letícia_Román>
+<http://dbpedia.org/resource/Don_Gilet>	<http://dbpedia.org/resource/Puppy_Love_(TV_series)>	<http://dbpedia.org/resource/Paul_Campbell_(Canadian_actor)>	<http://dbpedia.org/resource/Gavin_Crawford''s_Wild_West>	<http://dbpedia.org/resource/Lucy_Torres>	<http://dbpedia.org/resource/Pilipinas_Win_Na_Win>	<http://dbpedia.org/resource/Tiffany_Haddish>	<http://dbpedia.org/resource/Key_&_Peele>	<http://dbpedia.org/resource/Lau_Dan>	<http://dbpedia.org/resource/The_Duke_of_Mount_Deer_(1984_Hong_Kong_TV_series)>	
+<http://dbpedia.org/resource/Temple_Houston_(TV_series)>:1	
+<http://dbpedia.org/resource/Paul_Hunter_(actor)>
+<http://dbpedia.org/resource/Yassi_Pressman>	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>	<http://dbpedia.org/resource/Kenneth_MacDonald_(American_actor)>	<http://dbpedia.org/resource/Mr._and_Mrs._North>	
+<http://dbpedia.org/resource/Crazyhead_(TV_series)>:1	
+<http://dbpedia.org/resource/Paul_Hunter_(actor)>
+<http://dbpedia.org/resource/Robin_Wright_(actress)>	<http://dbpedia.org/resource/Alpha_House>	<http://dbpedia.org/resource/Nadine_Samonte>	<http://dbpedia.org/resource/Marimar_(2015_TV_series)>	<http://dbpedia.org/resource/Lauri_Hendler>	<http://dbpedia.org/resource/Gung_Ho_(TV_series)>	
+<http://dbpedia.org/resource/Crazyhead_(TV_series)>:1	
+<http://dbpedia.org/resource/Paul_Hunter_(actor)>
+<http://dbpedia.org/resource/Shelley_Fabares>	<http://dbpedia.org/resource/Duel_at_Sundown_(Maverick)>	<http://dbpedia.org/resource/Mike_Myers>	<http://dbpedia.org/resource/Itsy_Bitsy_Spider_(TV_series)>	<http://dbpedia.org/resource/Hilary_Swank>	<http://dbpedia.org/resource/Glenn_Martin,_DDS>	<http://dbpedia.org/resource/Bea_Alonzo>	<http://dbpedia.org/resource/Somewhere_in_My_Heart_(TV_series)>	
+<http://dbpedia.org/resource/Crazyhead_(TV_series)>:1	
+<http://dbpedia.org/resource/Paul_Hunter_(actor)>
+<http://dbpedia.org/resource/Jennica_Garcia>	<http://dbpedia.org/resource/LaLola_(Philippine_telenovela)>	<http://dbpedia.org/resource/Ted_Cassidy>	<http://dbpedia.org/resource/The_Flintstones>	<http://dbpedia.org/resource/Charles_Firth_(comedian)>	<http://dbpedia.org/resource/John_Safran''s_Music_Jamboree>	<http://dbpedia.org/resource/Joan_Woodbury>	<http://dbpedia.org/resource/Mr._and_Mrs._North>	<http://dbpedia.org/resource/Alexandra_Dreyfus>	<http://dbpedia.org/resource/KateModern>	
+<http://dbpedia.org/resource/Crazyhead_(TV_series)>:1	
+<http://dbpedia.org/resource/Judy_Ann_Santos>
+<http://dbpedia.org/resource/Mikael_Daez>	<http://dbpedia.org/resource/Once_Upon_a_Kiss>	<http://dbpedia.org/resource/Bea_Alonzo>	<http://dbpedia.org/resource/Got_to_Believe>	
+<http://dbpedia.org/resource/Once_Upon_a_Kiss>:1	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>:1	<http://dbpedia.org/resource/Got_to_Believe>:1	<http://dbpedia.org/resource/Princess_and_I>:1	<http://dbpedia.org/resource/Somewhere_in_My_Heart_(TV_series)>:1	<http://dbpedia.org/resource/Only_You_(2009_TV_series)>:1	<http://dbpedia.org/resource/LaLola_(Philippine_telenovela)>:1	<http://dbpedia.org/resource/Wako_Wako>:1	<http://dbpedia.org/resource/Forevermore_(TV_series)>:1	<http://dbpedia.org/resource/Pangako_Sa_''Yo_(2015_TV_series)>:1	<http://dbpedia.org/resource/Kokey_at_Ako>:1	
+<http://dbpedia.org/resource/Judy_Ann_Santos>
+<http://dbpedia.org/resource/David_Keith>	<http://dbpedia.org/resource/Mr._and_Mrs._North>	<http://dbpedia.org/resource/Martin_del_Rosario>	<http://dbpedia.org/resource/Somewhere_in_My_Heart_(TV_series)>	<http://dbpedia.org/resource/Ryan_Gosling>	<http://dbpedia.org/resource/Chris_Cross_(TV_series)>	
+<http://dbpedia.org/resource/Once_Upon_a_Kiss>:1	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>:1	<http://dbpedia.org/resource/Got_to_Believe>:1	<http://dbpedia.org/resource/Princess_and_I>:1	<http://dbpedia.org/resource/Somewhere_in_My_Heart_(TV_series)>:1	<http://dbpedia.org/resource/Only_You_(2009_TV_series)>:1	<http://dbpedia.org/resource/LaLola_(Philippine_telenovela)>:1	<http://dbpedia.org/resource/Wako_Wako>:1	<http://dbpedia.org/resource/Forevermore_(TV_series)>:1	<http://dbpedia.org/resource/Pangako_Sa_''Yo_(2015_TV_series)>:1	<http://dbpedia.org/resource/Kokey_at_Ako>:1	
+<http://dbpedia.org/resource/Judy_Ann_Santos>
+<http://dbpedia.org/resource/Bernard_Erhard>	<http://dbpedia.org/resource/The_Flintstone_Comedy_Show_(1980_TV_series)>	<http://dbpedia.org/resource/Walter_Learning>	<http://dbpedia.org/resource/Show_Me_Yours>	<http://dbpedia.org/resource/Dick_Beals>	<http://dbpedia.org/resource/Jokebook>	<http://dbpedia.org/resource/Noel_Trinidad>	<http://dbpedia.org/resource/Kaya_ni_Mister,_Kaya_ni_Misis>	
+<http://dbpedia.org/resource/Once_Upon_a_Kiss>:1	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>:1	<http://dbpedia.org/resource/Got_to_Believe>:1	<http://dbpedia.org/resource/Princess_and_I>:1	<http://dbpedia.org/resource/Somewhere_in_My_Heart_(TV_series)>:1	<http://dbpedia.org/resource/Only_You_(2009_TV_series)>:1	<http://dbpedia.org/resource/LaLola_(Philippine_telenovela)>:1	<http://dbpedia.org/resource/Wako_Wako>:1	<http://dbpedia.org/resource/Forevermore_(TV_series)>:1	<http://dbpedia.org/resource/Pangako_Sa_''Yo_(2015_TV_series)>:1	<http://dbpedia.org/resource/Kokey_at_Ako>:1	
+<http://dbpedia.org/resource/Judy_Ann_Santos>
+<http://dbpedia.org/resource/Skip_Hinnant>	<http://dbpedia.org/resource/Plunder_&_Lightning>	<http://dbpedia.org/resource/Lana_Wood>	<http://dbpedia.org/resource/Gun_Shy_(TV_series)>	<http://dbpedia.org/resource/Warren_Clarke>	<http://dbpedia.org/resource/Agatha_Raisin_and_the_Quiche_of_Death_(film)>	<http://dbpedia.org/resource/Hal_Williams>	<http://dbpedia.org/resource/The_Bill_Dana_Show>	<http://dbpedia.org/resource/Barry_Sullivan_(actor)>	<http://dbpedia.org/resource/The_Ernie_Kovacs_Show>	
+<http://dbpedia.org/resource/Once_Upon_a_Kiss>:1	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>:1	<http://dbpedia.org/resource/Got_to_Believe>:1	<http://dbpedia.org/resource/Princess_and_I>:1	<http://dbpedia.org/resource/Somewhere_in_My_Heart_(TV_series)>:1	<http://dbpedia.org/resource/Only_You_(2009_TV_series)>:1	<http://dbpedia.org/resource/LaLola_(Philippine_telenovela)>:1	<http://dbpedia.org/resource/Wako_Wako>:1	<http://dbpedia.org/resource/Forevermore_(TV_series)>:1	<http://dbpedia.org/resource/Pangako_Sa_''Yo_(2015_TV_series)>:1	<http://dbpedia.org/resource/Kokey_at_Ako>:1	
+<http://dbpedia.org/resource/Diahn_Williams>
+<http://dbpedia.org/resource/Renée_Zellweger>	<http://dbpedia.org/resource/Parenthood_(1990_TV_series)>	<http://dbpedia.org/resource/Fred_Flintstone>	<http://dbpedia.org/resource/The_Funky_Phantom>	
+<http://dbpedia.org/resource/The_Ed_Wynn_Show>:1	
+<http://dbpedia.org/resource/Diahn_Williams>
+<http://dbpedia.org/resource/Angelu_de_Leon>	<http://dbpedia.org/resource/LaLola_(Philippine_telenovela)>	<http://dbpedia.org/resource/Chas_Licciardello>	<http://dbpedia.org/resource/The_Elegant_Gentleman''s_Guide_to_Knife_Fighting>	<http://dbpedia.org/resource/Don_Parker_(actor)>	<http://dbpedia.org/resource/The_Charlie_Brown_and_Snoopy_Show>	
+<http://dbpedia.org/resource/The_Ed_Wynn_Show>:1	
+<http://dbpedia.org/resource/Diahn_Williams>
+<http://dbpedia.org/resource/Andy_Russell_(singer)>	<http://dbpedia.org/resource/The_Dick_Tracy_Show>	<http://dbpedia.org/resource/Julie_Bennett>	<http://dbpedia.org/resource/Atom_Ant>	<http://dbpedia.org/resource/Sylvia_Miles>	<http://dbpedia.org/resource/The_Dennis_O''Keefe_Show>	<http://dbpedia.org/resource/Tetchie_Agbayani>	<http://dbpedia.org/resource/Kokey_at_Ako>	
+<http://dbpedia.org/resource/The_Ed_Wynn_Show>:1	
+<http://dbpedia.org/resource/Diahn_Williams>
+<http://dbpedia.org/resource/Marley_Sharp>	<http://dbpedia.org/resource/The_Elegant_Gentleman''s_Guide_to_Knife_Fighting>	<http://dbpedia.org/resource/Moyoung_Jenner>	<http://dbpedia.org/resource/Wako_Wako>	<http://dbpedia.org/resource/Jessica_Bowman>	<http://dbpedia.org/resource/Lucky_Luke_(TV_series)>	<http://dbpedia.org/resource/Janella_Salvador>	<http://dbpedia.org/resource/Juanita_Banana>	<http://dbpedia.org/resource/Xian_Lim>	<http://dbpedia.org/resource/Forevermore_(TV_series)>	
+<http://dbpedia.org/resource/The_Ed_Wynn_Show>:1	
+<http://dbpedia.org/resource/Kate_Winslet>
+<http://dbpedia.org/resource/Adam_West>	<http://dbpedia.org/resource/A_Fairly_Odd_Summer>	<http://dbpedia.org/resource/Charlie_Adler>	<http://dbpedia.org/resource/The_Flintstone_Comedy_Show_(1980_TV_series)>	
+<http://dbpedia.org/resource/Ocean''s_Trilogy>:1	<http://dbpedia.org/resource/Rex_the_Runt>:1	<http://dbpedia.org/resource/The_Minor_Accomplishments_of_Jackie_Woodman>:1	<http://dbpedia.org/resource/Derek_and_Simon>:1	<http://dbpedia.org/resource/Crisis_in_Six_Scenes>:1	
+<http://dbpedia.org/resource/Kate_Winslet>
+<http://dbpedia.org/resource/Edward_Norris>	<http://dbpedia.org/resource/Mr._and_Mrs._North>	<http://dbpedia.org/resource/Josh_Brolin>	<http://dbpedia.org/resource/Funny_or_Die_Presents>	<http://dbpedia.org/resource/Jean_Garcia>	<http://dbpedia.org/resource/Be_My_Lady>	
+<http://dbpedia.org/resource/Ocean''s_Trilogy>:1	<http://dbpedia.org/resource/Rex_the_Runt>:1	<http://dbpedia.org/resource/The_Minor_Accomplishments_of_Jackie_Woodman>:1	<http://dbpedia.org/resource/Derek_and_Simon>:1	<http://dbpedia.org/resource/Crisis_in_Six_Scenes>:1	
+<http://dbpedia.org/resource/Kate_Winslet>
+<http://dbpedia.org/resource/Dick_Gautier>	<http://dbpedia.org/resource/The_Bill_Dana_Show>	<http://dbpedia.org/resource/Porky_Pig>	<http://dbpedia.org/resource/The_Lorax_(TV_special)>	<http://dbpedia.org/resource/Ty_Miller>	<http://dbpedia.org/resource/The_100_Lives_of_Black_Jack_Savage>	<http://dbpedia.org/resource/Jason_Alexander>	<http://dbpedia.org/resource/A_Fairly_Odd_Christmas>	
+<http://dbpedia.org/resource/Ocean''s_Trilogy>:1	<http://dbpedia.org/resource/Rex_the_Runt>:1	<http://dbpedia.org/resource/The_Minor_Accomplishments_of_Jackie_Woodman>:1	<http://dbpedia.org/resource/Derek_and_Simon>:1	<http://dbpedia.org/resource/Crisis_in_Six_Scenes>:1	
+<http://dbpedia.org/resource/Kate_Winslet>
+<http://dbpedia.org/resource/Claudine_Barretto>	<http://dbpedia.org/resource/Habang_May_Buhay>	<http://dbpedia.org/resource/Nan_Leslie>	<http://dbpedia.org/resource/Mr._and_Mrs._North>	<http://dbpedia.org/resource/Dick_Shawn>	<http://dbpedia.org/resource/The_Bill_Dana_Show>	<http://dbpedia.org/resource/Michael_Bell_(actor)>	<http://dbpedia.org/resource/CB_Bears>	<http://dbpedia.org/resource/Nicholas_Boshier>	<http://dbpedia.org/resource/The_Elegant_Gentleman''s_Guide_to_Knife_Fighting>	
+<http://dbpedia.org/resource/Ocean''s_Trilogy>:1	<http://dbpedia.org/resource/Rex_the_Runt>:1	<http://dbpedia.org/resource/The_Minor_Accomplishments_of_Jackie_Woodman>:1	<http://dbpedia.org/resource/Derek_and_Simon>:1	<http://dbpedia.org/resource/Crisis_in_Six_Scenes>:1	
+<http://dbpedia.org/resource/Deborah_Harmon>
+<http://dbpedia.org/resource/Juno_Temple>	<http://dbpedia.org/resource/Crisis_in_Six_Scenes>	<http://dbpedia.org/resource/Mae_Whitman>	<http://dbpedia.org/resource/Brandy_&_Mr._Whiskers>	
+<http://dbpedia.org/resource/Uncle_Buck_(1990_TV_series)>:1	
+<http://dbpedia.org/resource/Deborah_Harmon>
+<http://dbpedia.org/resource/Sadaf_Kanwal>	<http://dbpedia.org/resource/Aunn_Zara>	<http://dbpedia.org/resource/Billy_West_(voice_actor)>	<http://dbpedia.org/resource/The_Twisted_Whiskers_Show>	<http://dbpedia.org/resource/Dick_Beals>	<http://dbpedia.org/resource/The_Huckleberry_Hound_Show>	
+<http://dbpedia.org/resource/Uncle_Buck_(1990_TV_series)>:1	
+<http://dbpedia.org/resource/Deborah_Harmon>
+<http://dbpedia.org/resource/David_Cross>	<http://dbpedia.org/resource/The_Wild_Thornberrys>	<http://dbpedia.org/resource/Richard_Moll>	<http://dbpedia.org/resource/A_Fairly_Odd_Summer>	<http://dbpedia.org/resource/Tammy_Townsend>	<http://dbpedia.org/resource/Invisible_Sister>	<http://dbpedia.org/resource/Anthony_Tyler_Quinn>	<http://dbpedia.org/resource/Carol_&_Company>	
+<http://dbpedia.org/resource/Uncle_Buck_(1990_TV_series)>:1	
+<http://dbpedia.org/resource/Deborah_Harmon>
+<http://dbpedia.org/resource/Hal_Williams>	<http://dbpedia.org/resource/Parenthood_(1990_TV_series)>	<http://dbpedia.org/resource/B._J._Ward_(actress)>	<http://dbpedia.org/resource/The_Charlie_Brown_and_Snoopy_Show>	<http://dbpedia.org/resource/Pat_Crowley>	<http://dbpedia.org/resource/The_Bill_Dana_Show>	<http://dbpedia.org/resource/Jomari_Yllana>	<http://dbpedia.org/resource/The_Wedding_(TV_series)>	<http://dbpedia.org/resource/Tirzo_Cruz_III>	<http://dbpedia.org/resource/That''s_My_Amboy>	
+<http://dbpedia.org/resource/Uncle_Buck_(1990_TV_series)>:1	
+<http://dbpedia.org/resource/Ryan_Corr>
+<http://dbpedia.org/resource/Helen_Modern>	<http://dbpedia.org/resource/The_Kevin_Bishop_Show>	<http://dbpedia.org/resource/June_Vincent>	<http://dbpedia.org/resource/Mr._and_Mrs._North>	
+<http://dbpedia.org/resource/Boys_from_the_Bush>:1	<http://dbpedia.org/resource/The_Elegant_Gentleman''s_Guide_to_Knife_Fighting>:1	
+<http://dbpedia.org/resource/Ryan_Corr>
+<http://dbpedia.org/resource/Rafael_Rosell>	<http://dbpedia.org/resource/Forevermore_(TV_series)>	<http://dbpedia.org/resource/Bill_Barretta>	<http://dbpedia.org/resource/The_Office:_The_Accountants>	<http://dbpedia.org/resource/Matthew_Newmark>	<http://dbpedia.org/resource/Swinging_Spiketaculars>	
+<http://dbpedia.org/resource/Boys_from_the_Bush>:1	<http://dbpedia.org/resource/The_Elegant_Gentleman''s_Guide_to_Knife_Fighting>:1	
+<http://dbpedia.org/resource/Ryan_Corr>
+<http://dbpedia.org/resource/Joan_Plowright>	<http://dbpedia.org/resource/Jinxed_(2013_film)>	<http://dbpedia.org/resource/Kean_Cipriano>	<http://dbpedia.org/resource/Once_Upon_a_Kiss>	<http://dbpedia.org/resource/Kevin_Michael_Richardson>	<http://dbpedia.org/resource/Beverly_Hills_Buntz>	<http://dbpedia.org/resource/Jimena_Barón>	<http://dbpedia.org/resource/Son_de_Fierro>	
+<http://dbpedia.org/resource/Boys_from_the_Bush>:1	<http://dbpedia.org/resource/The_Elegant_Gentleman''s_Guide_to_Knife_Fighting>:1	
+<http://dbpedia.org/resource/Ryan_Corr>
+<http://dbpedia.org/resource/Brendon_Ryan_Barrett>	<http://dbpedia.org/resource/Carol_&_Company>	<http://dbpedia.org/resource/Raymart_Santiago>	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>	<http://dbpedia.org/resource/Joe_Alaskey>	<http://dbpedia.org/resource/The_Twisted_Whiskers_Show>	<http://dbpedia.org/resource/Aftab_Shivdasani>	<http://dbpedia.org/resource/Malini_Iyer>	<http://dbpedia.org/resource/Vincent_Regan>	<http://dbpedia.org/resource/The_100_Lives_of_Black_Jack_Savage>	
+<http://dbpedia.org/resource/Boys_from_the_Bush>:1	<http://dbpedia.org/resource/The_Elegant_Gentleman''s_Guide_to_Knife_Fighting>:1	
+<http://dbpedia.org/resource/Jerry_Seinfeld>
+<http://dbpedia.org/resource/Luis_van_Rooten>	<http://dbpedia.org/resource/The_Dick_Tracy_Show>	<http://dbpedia.org/resource/Keegan-Michael_Key>	<http://dbpedia.org/resource/Steven_Universe>	
+<http://dbpedia.org/resource/Gun_Shy_(TV_series)>:1	<http://dbpedia.org/resource/Parenthood_(1990_TV_series)>:1	
+<http://dbpedia.org/resource/Jerry_Seinfeld>
+<http://dbpedia.org/resource/DJ_Drama>	<http://dbpedia.org/resource/Turbo_FAST>	<http://dbpedia.org/resource/Marvin_Kaplan>	<http://dbpedia.org/resource/Laff-A-Lympics>	<http://dbpedia.org/resource/Nikki_Valdez>	<http://dbpedia.org/resource/Kaya_ni_Mister,_Kaya_ni_Misis>	
+<http://dbpedia.org/resource/Gun_Shy_(TV_series)>:1	<http://dbpedia.org/resource/Parenthood_(1990_TV_series)>:1	
+<http://dbpedia.org/resource/Jerry_Seinfeld>
+<http://dbpedia.org/resource/R._J._Williams>	<http://dbpedia.org/resource/Yo_Yogi!>	<http://dbpedia.org/resource/Josh_Cruddas>	<http://dbpedia.org/resource/The_Parent_Trap_II>	<http://dbpedia.org/resource/Adam_Rothenberg>	<http://dbpedia.org/resource/Glenn_Martin,_DDS>	<http://dbpedia.org/resource/Martin_Mull>	<http://dbpedia.org/resource/Party_Down>	
+<http://dbpedia.org/resource/Gun_Shy_(TV_series)>:1	<http://dbpedia.org/resource/Parenthood_(1990_TV_series)>:1	
+<http://dbpedia.org/resource/Jerry_Seinfeld>
+<http://dbpedia.org/resource/David_Cross>	<http://dbpedia.org/resource/The_Wild_Thornberrys>	<http://dbpedia.org/resource/Greta_Gerwig>	<http://dbpedia.org/resource/Crisis_in_Six_Scenes>	<http://dbpedia.org/resource/Patrick_Garcia>	<http://dbpedia.org/resource/Habang_May_Buhay>	<http://dbpedia.org/resource/Stan_Freberg>	<http://dbpedia.org/resource/The_Pink_Panther_in:_Olym-Pinks>	<http://dbpedia.org/resource/Aljur_Abrenica>	<http://dbpedia.org/resource/Comedy_Bar_(Philippine_TV_series)>	
+<http://dbpedia.org/resource/Gun_Shy_(TV_series)>:1	<http://dbpedia.org/resource/Parenthood_(1990_TV_series)>:1	
+<http://dbpedia.org/resource/Andrew_Bilgore>
+<http://dbpedia.org/resource/Billy_Barty>	<http://dbpedia.org/resource/Young_Maverick>	<http://dbpedia.org/resource/Lilly_Moon>	<http://dbpedia.org/resource/The_Great_Grape_Ape_Show>	
+<http://dbpedia.org/resource/Gung_Ho_(TV_series)>:1	<http://dbpedia.org/resource/Carol_&_Company>:1	
+<http://dbpedia.org/resource/Andrew_Bilgore>
+<http://dbpedia.org/resource/Alfred_Molina>	<http://dbpedia.org/resource/Itsy_Bitsy_Spider_(TV_series)>	<http://dbpedia.org/resource/David_Rudman>	<http://dbpedia.org/resource/The_Office:_The_Accountants>	<http://dbpedia.org/resource/Brian_Lando>	<http://dbpedia.org/resource/Swinging_Spiketaculars>	
+<http://dbpedia.org/resource/Gung_Ho_(TV_series)>:1	<http://dbpedia.org/resource/Carol_&_Company>:1	
+<http://dbpedia.org/resource/Andrew_Bilgore>
+<http://dbpedia.org/resource/Josh_Hartnett>	<http://dbpedia.org/resource/Betas>	<http://dbpedia.org/resource/Saskia_Rosendahl>	<http://dbpedia.org/resource/Bad_Cop,_Bad_Cop>	<http://dbpedia.org/resource/Daran_Norris>	<http://dbpedia.org/resource/T.U.F.F._Puppy>	<http://dbpedia.org/resource/Charlie_Adler>	<http://dbpedia.org/resource/Laff-A-Lympics>	
+<http://dbpedia.org/resource/Gung_Ho_(TV_series)>:1	<http://dbpedia.org/resource/Carol_&_Company>:1	
+<http://dbpedia.org/resource/Andrew_Bilgore>
+<http://dbpedia.org/resource/Charles_Dance>	<http://dbpedia.org/resource/Crazyhead_(TV_series)>	<http://dbpedia.org/resource/Anushka_Sharma>	<http://dbpedia.org/resource/Sumit_Sambhal_Lega>	<http://dbpedia.org/resource/Chris_Lemmon>	<http://dbpedia.org/resource/Gung_Ho_(TV_series)>	<http://dbpedia.org/resource/Paul_Winchell>	<http://dbpedia.org/resource/The_Lorax_(TV_special)>	<http://dbpedia.org/resource/Bosko>	<http://dbpedia.org/resource/The_Pink_Panther_in:_Olym-Pinks>	
+<http://dbpedia.org/resource/Gung_Ho_(TV_series)>:1	<http://dbpedia.org/resource/Carol_&_Company>:1	
+<http://dbpedia.org/resource/Andrew_Mackay_(actor)>
+<http://dbpedia.org/resource/Teresita_Reyes>	<http://dbpedia.org/resource/Pobre_Rico_(telenovela)>	<http://dbpedia.org/resource/Arte_Johnson>	<http://dbpedia.org/resource/Temple_Houston_(TV_series)>	
+<http://dbpedia.org/resource/You_Must_Be_The_Husband>:1	
+<http://dbpedia.org/resource/Andrew_Mackay_(actor)>
+<http://dbpedia.org/resource/Freddie_Fox_(actor)>	<http://dbpedia.org/resource/White_Teeth_(TV_serial)>	<http://dbpedia.org/resource/Aiko_Melendez>	<http://dbpedia.org/resource/The_Wedding_(TV_series)>	<http://dbpedia.org/resource/Cristi_Conaway>	<http://dbpedia.org/resource/Parenthood_(1990_TV_series)>	
+<http://dbpedia.org/resource/You_Must_Be_The_Husband>:1	
+<http://dbpedia.org/resource/Andrew_Mackay_(actor)>
+<http://dbpedia.org/resource/Nadine_Samonte>	<http://dbpedia.org/resource/Trudis_Liit>	<http://dbpedia.org/resource/Don_Lake>	<http://dbpedia.org/resource/Gung_Ho_(TV_series)>	<http://dbpedia.org/resource/Rob_Paulsen>	<http://dbpedia.org/resource/The_Smurfs_(TV_series)>	<http://dbpedia.org/resource/Julian_Morrow>	<http://dbpedia.org/resource/The_Elegant_Gentleman''s_Guide_to_Knife_Fighting>	
+<http://dbpedia.org/resource/You_Must_Be_The_Husband>:1	
+<http://dbpedia.org/resource/Andrew_Mackay_(actor)>
+<http://dbpedia.org/resource/Kurt_Rogiers>	<http://dbpedia.org/resource/Zoop_(TV_series)>	<http://dbpedia.org/resource/Sanam_Baloch>	<http://dbpedia.org/resource/Tum_Jo_Miley>	<http://dbpedia.org/resource/Dick_Jones_(actor)>	<http://dbpedia.org/resource/Young_Maverick>	<http://dbpedia.org/resource/Heart_Evangelista>	<http://dbpedia.org/resource/Sunday_PinaSaya>	<http://dbpedia.org/resource/Philip_Voss>	<http://dbpedia.org/resource/The_10_Percenters>	
+<http://dbpedia.org/resource/You_Must_Be_The_Husband>:1	
+<http://dbpedia.org/resource/Pokwang>
+<http://dbpedia.org/resource/Diane_Roter>	<http://dbpedia.org/resource/Young_Maverick>	<http://dbpedia.org/resource/Teresa_Ganzel>	<http://dbpedia.org/resource/Wait_Till_Your_Father_Gets_Home>	
+<http://dbpedia.org/resource/Nasaan_Ka_Nang_Kailangan_Kita>:1	<http://dbpedia.org/resource/The_Wedding_(TV_series)>:1	<http://dbpedia.org/resource/Biglang_Sibol,_Bayang_Impasibol>:1	<http://dbpedia.org/resource/Richard_Loves_Lucy>:1	<http://dbpedia.org/resource/Ysabella>:1	<http://dbpedia.org/resource/Habang_May_Buhay>:1	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>:1	<http://dbpedia.org/resource/Got_to_Believe>:1	<http://dbpedia.org/resource/Somewhere_in_My_Heart_(TV_series)>:1	<http://dbpedia.org/resource/Wowowin>:1	<http://dbpedia.org/resource/Wako_Wako>:1	<http://dbpedia.org/resource/Forevermore_(TV_series)>:1	<http://dbpedia.org/resource/Juanita_Banana>:1	<http://dbpedia.org/resource/Pangako_Sa_''Yo_(2015_TV_series)>:1	<http://dbpedia.org/resource/My_Driver_Sweet_Lover>:1	<http://dbpedia.org/resource/Kokey_at_Ako>:1	<http://dbpedia.org/resource/Abangan_Ang_Susunod_Na_Kabanata>:1	<http://dbpedia.org/resource/Wowowee>:1	<http://dbpedia.org/resource/Bora_(TV_series)>:1	<http://dbpedia.org/resource/Kaya_ni_Mister,_Kaya_ni_Misis>:1	<http://dbpedia.org/resource/Pilipinas_Win_Na_Win>:1	
+<http://dbpedia.org/resource/Pokwang>
+<http://dbpedia.org/resource/Christy_Carlson_Romano>	<http://dbpedia.org/resource/Avalon_High_(film)>	<http://dbpedia.org/resource/Nicholas_Braun>	<http://dbpedia.org/resource/Do_Over>	<http://dbpedia.org/resource/Teresa_Ganzel>	<http://dbpedia.org/resource/Scooby-Doo!_and_the_Reluctant_Werewolf>	
+<http://dbpedia.org/resource/Nasaan_Ka_Nang_Kailangan_Kita>:1	<http://dbpedia.org/resource/The_Wedding_(TV_series)>:1	<http://dbpedia.org/resource/Biglang_Sibol,_Bayang_Impasibol>:1	<http://dbpedia.org/resource/Richard_Loves_Lucy>:1	<http://dbpedia.org/resource/Ysabella>:1	<http://dbpedia.org/resource/Habang_May_Buhay>:1	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>:1	<http://dbpedia.org/resource/Got_to_Believe>:1	<http://dbpedia.org/resource/Somewhere_in_My_Heart_(TV_series)>:1	<http://dbpedia.org/resource/Wowowin>:1	<http://dbpedia.org/resource/Wako_Wako>:1	<http://dbpedia.org/resource/Forevermore_(TV_series)>:1	<http://dbpedia.org/resource/Juanita_Banana>:1	<http://dbpedia.org/resource/Pangako_Sa_''Yo_(2015_TV_series)>:1	<http://dbpedia.org/resource/My_Driver_Sweet_Lover>:1	<http://dbpedia.org/resource/Kokey_at_Ako>:1	<http://dbpedia.org/resource/Abangan_Ang_Susunod_Na_Kabanata>:1	<http://dbpedia.org/resource/Wowowee>:1	<http://dbpedia.org/resource/Bora_(TV_series)>:1	<http://dbpedia.org/resource/Kaya_ni_Mister,_Kaya_ni_Misis>:1	<http://dbpedia.org/resource/Pilipinas_Win_Na_Win>:1	
+<http://dbpedia.org/resource/Pokwang>
+<http://dbpedia.org/resource/Brad_William_Henke>	<http://dbpedia.org/resource/The_Good_Life_(1994_TV_series)>	<http://dbpedia.org/resource/Jolina_Magdangal>	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>	<http://dbpedia.org/resource/Harvey_Korman>	<http://dbpedia.org/resource/Do_Over>	<http://dbpedia.org/resource/Barbie_Forteza>	<http://dbpedia.org/resource/That''s_My_Amboy>	
+<http://dbpedia.org/resource/Nasaan_Ka_Nang_Kailangan_Kita>:1	<http://dbpedia.org/resource/The_Wedding_(TV_series)>:1	<http://dbpedia.org/resource/Biglang_Sibol,_Bayang_Impasibol>:1	<http://dbpedia.org/resource/Richard_Loves_Lucy>:1	<http://dbpedia.org/resource/Ysabella>:1	<http://dbpedia.org/resource/Habang_May_Buhay>:1	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>:1	<http://dbpedia.org/resource/Got_to_Believe>:1	<http://dbpedia.org/resource/Somewhere_in_My_Heart_(TV_series)>:1	<http://dbpedia.org/resource/Wowowin>:1	<http://dbpedia.org/resource/Wako_Wako>:1	<http://dbpedia.org/resource/Forevermore_(TV_series)>:1	<http://dbpedia.org/resource/Juanita_Banana>:1	<http://dbpedia.org/resource/Pangako_Sa_''Yo_(2015_TV_series)>:1	<http://dbpedia.org/resource/My_Driver_Sweet_Lover>:1	<http://dbpedia.org/resource/Kokey_at_Ako>:1	<http://dbpedia.org/resource/Abangan_Ang_Susunod_Na_Kabanata>:1	<http://dbpedia.org/resource/Wowowee>:1	<http://dbpedia.org/resource/Bora_(TV_series)>:1	<http://dbpedia.org/resource/Kaya_ni_Mister,_Kaya_ni_Misis>:1	<http://dbpedia.org/resource/Pilipinas_Win_Na_Win>:1	
+<http://dbpedia.org/resource/Pokwang>
+<http://dbpedia.org/resource/Jeany_Spark>	<http://dbpedia.org/resource/Gangsta_Granny_(film)>	<http://dbpedia.org/resource/David_McLean_(actor)>	<http://dbpedia.org/resource/The_Banana_Splits>	<http://dbpedia.org/resource/Danielle_Panabaker>	<http://dbpedia.org/resource/Invisible_Sister>	<http://dbpedia.org/resource/Richard_Gutierrez>	<http://dbpedia.org/resource/Poor_Señorita>	<http://dbpedia.org/resource/Julia_Sawalha>	<http://dbpedia.org/resource/The_Amazing_Adventures_of_Morph>	
+<http://dbpedia.org/resource/Nasaan_Ka_Nang_Kailangan_Kita>:1	<http://dbpedia.org/resource/The_Wedding_(TV_series)>:1	<http://dbpedia.org/resource/Biglang_Sibol,_Bayang_Impasibol>:1	<http://dbpedia.org/resource/Richard_Loves_Lucy>:1	<http://dbpedia.org/resource/Ysabella>:1	<http://dbpedia.org/resource/Habang_May_Buhay>:1	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>:1	<http://dbpedia.org/resource/Got_to_Believe>:1	<http://dbpedia.org/resource/Somewhere_in_My_Heart_(TV_series)>:1	<http://dbpedia.org/resource/Wowowin>:1	<http://dbpedia.org/resource/Wako_Wako>:1	<http://dbpedia.org/resource/Forevermore_(TV_series)>:1	<http://dbpedia.org/resource/Juanita_Banana>:1	<http://dbpedia.org/resource/Pangako_Sa_''Yo_(2015_TV_series)>:1	<http://dbpedia.org/resource/My_Driver_Sweet_Lover>:1	<http://dbpedia.org/resource/Kokey_at_Ako>:1	<http://dbpedia.org/resource/Abangan_Ang_Susunod_Na_Kabanata>:1	<http://dbpedia.org/resource/Wowowee>:1	<http://dbpedia.org/resource/Bora_(TV_series)>:1	<http://dbpedia.org/resource/Kaya_ni_Mister,_Kaya_ni_Misis>:1	<http://dbpedia.org/resource/Pilipinas_Win_Na_Win>:1	
+<http://dbpedia.org/resource/Kareena_Kapoor>
+<http://dbpedia.org/resource/Emory_Parnell>	<http://dbpedia.org/resource/Mr._and_Mrs._North>	<http://dbpedia.org/resource/Dick_Beals>	<http://dbpedia.org/resource/Help!..._It''s_the_Hair_Bear_Bunch!>	
+<http://dbpedia.org/resource/Malini_Iyer>:1	
+<http://dbpedia.org/resource/Kareena_Kapoor>
+<http://dbpedia.org/resource/Harvey_Vernon>	<http://dbpedia.org/resource/Gun_Shy_(TV_series)>	<http://dbpedia.org/resource/John_Lapus>	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>	<http://dbpedia.org/resource/Michael_Rye>	<http://dbpedia.org/resource/Galaxy_Goof-Ups>	
+<http://dbpedia.org/resource/Malini_Iyer>:1	
+<http://dbpedia.org/resource/Kareena_Kapoor>
+<http://dbpedia.org/resource/Danish_Taimoor>	<http://dbpedia.org/resource/Tum_Jo_Miley>	<http://dbpedia.org/resource/Bridgit_Mendler>	<http://dbpedia.org/resource/That''s_Life_(1998_TV_series)>	<http://dbpedia.org/resource/Juancho_Trivino>	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>	<http://dbpedia.org/resource/Jake_Roxas>	<http://dbpedia.org/resource/Poor_Señorita>	
+<http://dbpedia.org/resource/Malini_Iyer>:1	
+<http://dbpedia.org/resource/Kareena_Kapoor>
+<http://dbpedia.org/resource/Casey_Affleck>	<http://dbpedia.org/resource/Rex_the_Runt>	<http://dbpedia.org/resource/David_Ogden_Stiers>	<http://dbpedia.org/resource/The_Edge_(Fox_TV_series)>	<http://dbpedia.org/resource/Tabu_(actress)>	<http://dbpedia.org/resource/Malini_Iyer>	<http://dbpedia.org/resource/Spalding_Gray>	<http://dbpedia.org/resource/Ocean''s_Trilogy>	<http://dbpedia.org/resource/Milind_Shinde>	<http://dbpedia.org/resource/Eka_Lagnachi_Dusri_Goshta>	
+<http://dbpedia.org/resource/Malini_Iyer>:1	
+<http://dbpedia.org/resource/Dick_Martin_(comedian)>
+<http://dbpedia.org/resource/Alexander_de_Seversky>	<http://dbpedia.org/resource/The_Dick_Tracy_Show>	<http://dbpedia.org/resource/Robert_Webb_(actor)>	<http://dbpedia.org/resource/Fake_Reaction>	
+<http://dbpedia.org/resource/The_Dennis_O''Keefe_Show>:1	<http://dbpedia.org/resource/Carol_&_Company>:1	
+<http://dbpedia.org/resource/Dick_Martin_(comedian)>
+<http://dbpedia.org/resource/Jason_Lee_(actor)>	<http://dbpedia.org/resource/Itsy_Bitsy_Spider_(TV_series)>	<http://dbpedia.org/resource/The_Ken_Darby_Chorus>	<http://dbpedia.org/resource/The_Dick_Tracy_Show>	<http://dbpedia.org/resource/Melissa_Barrera_(actress)>	<http://dbpedia.org/resource/Corazón_en_condominio>	
+<http://dbpedia.org/resource/The_Dennis_O''Keefe_Show>:1	<http://dbpedia.org/resource/Carol_&_Company>:1	
+<http://dbpedia.org/resource/Dick_Martin_(comedian)>
+<http://dbpedia.org/resource/Pat_Stevens>	<http://dbpedia.org/resource/Galaxy_Goof-Ups>	<http://dbpedia.org/resource/Mona_Louise_Rey>	<http://dbpedia.org/resource/Trudis_Liit>	<http://dbpedia.org/resource/Shenae_Grimes>	<http://dbpedia.org/resource/Jinxed_(2013_film)>	<http://dbpedia.org/resource/Ed_Begley,_Jr.>	<http://dbpedia.org/resource/Betas>	
+<http://dbpedia.org/resource/The_Dennis_O''Keefe_Show>:1	<http://dbpedia.org/resource/Carol_&_Company>:1	
+<http://dbpedia.org/resource/Dick_Martin_(comedian)>
+<http://dbpedia.org/resource/Lilly_Moon>	<http://dbpedia.org/resource/Yogi''s_Gang>	<http://dbpedia.org/resource/Lou_Richards_(actor)>	<http://dbpedia.org/resource/Yo_Yogi!>	<http://dbpedia.org/resource/Geoffrey_Palmer_(actor)>	<http://dbpedia.org/resource/Oh_In_Colour>	<http://dbpedia.org/resource/Rosanna_DeSoto>	<http://dbpedia.org/resource/Bob_(TV_series)>	<http://dbpedia.org/resource/Teryl_Rothery>	<http://dbpedia.org/resource/The_Amazing_Spiez!>	
+<http://dbpedia.org/resource/The_Dennis_O''Keefe_Show>:1	<http://dbpedia.org/resource/Carol_&_Company>:1	
+<http://dbpedia.org/resource/Harry_Davenport_(actor)>
+<http://dbpedia.org/resource/Paul_Frees>	<http://dbpedia.org/resource/Help!..._It''s_the_Hair_Bear_Bunch!>	<http://dbpedia.org/resource/Jurnee_Smollett>	<http://dbpedia.org/resource/The_Good_Life_(1994_TV_series)>	
+<http://dbpedia.org/resource/Mr._and_Mrs._North>:1	
+<http://dbpedia.org/resource/Harry_Davenport_(actor)>
+<http://dbpedia.org/resource/Lauren_Young>	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>	<http://dbpedia.org/resource/Marvin_Agustin>	<http://dbpedia.org/resource/LaLola_(Philippine_telenovela)>	<http://dbpedia.org/resource/Crystal_Scales>	<http://dbpedia.org/resource/T.U.F.F._Puppy>	
+<http://dbpedia.org/resource/Mr._and_Mrs._North>:1	
+<http://dbpedia.org/resource/Harry_Davenport_(actor)>
+<http://dbpedia.org/resource/Jennylyn_Mercado>	<http://dbpedia.org/resource/LaLola_(Philippine_telenovela)>	<http://dbpedia.org/resource/Tina_Louise>	<http://dbpedia.org/resource/Temple_Houston_(TV_series)>	<http://dbpedia.org/resource/Arnold_Stang>	<http://dbpedia.org/resource/Galaxy_Goof-Ups>	<http://dbpedia.org/resource/Pam_Dawber>	<http://dbpedia.org/resource/Casper''s_Halloween_Special>	
+<http://dbpedia.org/resource/Mr._and_Mrs._North>:1	
+<http://dbpedia.org/resource/Harry_Davenport_(actor)>
+<http://dbpedia.org/resource/Nikki_Gil>	<http://dbpedia.org/resource/Biglang_Sibol,_Bayang_Impasibol>	<http://dbpedia.org/resource/Elmer_Fudd>	<http://dbpedia.org/resource/The_Dick_Tracy_Show>	<http://dbpedia.org/resource/Sunshine_Dizon>	<http://dbpedia.org/resource/Because_of_You_(TV_series)>	<http://dbpedia.org/resource/David_Hayman>	<http://dbpedia.org/resource/Puppy_Love_(TV_series)>	<http://dbpedia.org/resource/John_Sencio>	<http://dbpedia.org/resource/The_Edge_(Fox_TV_series)>	
+<http://dbpedia.org/resource/Mr._and_Mrs._North>:1	
+<http://dbpedia.org/resource/Barış_Yıldız>
+<http://dbpedia.org/resource/Regine_Velasquez>	<http://dbpedia.org/resource/LaLola_(Philippine_telenovela)>	<http://dbpedia.org/resource/Guillermo_Capetillo>	<http://dbpedia.org/resource/Carrusel>	
+<http://dbpedia.org/resource/İşler_Güçler>:1	
+<http://dbpedia.org/resource/Barış_Yıldız>
+<http://dbpedia.org/resource/John_Vargas>	<http://dbpedia.org/resource/Young_Maverick>	<http://dbpedia.org/resource/Jason_Weaver>	<http://dbpedia.org/resource/The_Bill_Dana_Show>	<http://dbpedia.org/resource/Michael_Greer>	<http://dbpedia.org/resource/The_100_Lives_of_Black_Jack_Savage>	
+<http://dbpedia.org/resource/İşler_Güçler>:1	
+<http://dbpedia.org/resource/Barış_Yıldız>
+<http://dbpedia.org/resource/Christine_Paul-Podlasky>	<http://dbpedia.org/resource/Zmiennicy>	<http://dbpedia.org/resource/Glaiza_de_Castro>	<http://dbpedia.org/resource/Poor_Señorita>	<http://dbpedia.org/resource/Kym_Gyngell>	<http://dbpedia.org/resource/Toon_Time_(TV_series)>	<http://dbpedia.org/resource/Avery_Schreiber>	<http://dbpedia.org/resource/The_Smurfs_(TV_series)>	
+<http://dbpedia.org/resource/İşler_Güçler>:1	
+<http://dbpedia.org/resource/Barış_Yıldız>
+<http://dbpedia.org/resource/Jeremy_Clyde>	<http://dbpedia.org/resource/Terry_Pratchett''s_Going_Postal>	<http://dbpedia.org/resource/Gordon_Jones_(actor)>	<http://dbpedia.org/resource/Mr._and_Mrs._North>	<http://dbpedia.org/resource/Sarah_Geronimo>	<http://dbpedia.org/resource/Wako_Wako>	<http://dbpedia.org/resource/Christopher_Mintz-Plasse>	<http://dbpedia.org/resource/The_Minor_Accomplishments_of_Jackie_Woodman>	<http://dbpedia.org/resource/Victoria_Carroll>	<http://dbpedia.org/resource/Foofur>	
+<http://dbpedia.org/resource/İşler_Güçler>:1	
+<http://dbpedia.org/resource/Valri_Bromfield>
+<http://dbpedia.org/resource/Jiro_Manio>	<http://dbpedia.org/resource/Larawan:_A_Special_Drama_Engagement>	<http://dbpedia.org/resource/Elizabeth_Bennett_(actress)>	<http://dbpedia.org/resource/Canned_Carrott>	
+<http://dbpedia.org/resource/Regular_Show>:1	<http://dbpedia.org/resource/Dexter''s_Laboratory>:1	<http://dbpedia.org/resource/I_Am_Weasel>:1	<http://dbpedia.org/resource/Codename:_Kids_Next_Door>:1	<http://dbpedia.org/resource/Uncle_Grandpa>:1	<http://dbpedia.org/resource/Ed_Grimley__The_Completely_Mental_Misadventures_of_Ed_Grimley__1>:1	<http://dbpedia.org/resource/Yogi_the_Easter_Bear>:1	<http://dbpedia.org/resource/The_Further_Adventures_of_SuperTed>:1	<http://dbpedia.org/resource/Cow_and_Chicken>:1	
+<http://dbpedia.org/resource/Valri_Bromfield>
+<http://dbpedia.org/resource/Mahnoor_Baloch>	<http://dbpedia.org/resource/Aunn_Zara>	<http://dbpedia.org/resource/Dannah_Feinglass>	<http://dbpedia.org/resource/Rocko''s_Modern_Life>	<http://dbpedia.org/resource/Arnold_Stang>	<http://dbpedia.org/resource/The_Flintstone_Comedy_Show_(1980_TV_series)>	
+<http://dbpedia.org/resource/Regular_Show>:1	<http://dbpedia.org/resource/Dexter''s_Laboratory>:1	<http://dbpedia.org/resource/I_Am_Weasel>:1	<http://dbpedia.org/resource/Codename:_Kids_Next_Door>:1	<http://dbpedia.org/resource/Uncle_Grandpa>:1	<http://dbpedia.org/resource/Ed_Grimley__The_Completely_Mental_Misadventures_of_Ed_Grimley__1>:1	<http://dbpedia.org/resource/Yogi_the_Easter_Bear>:1	<http://dbpedia.org/resource/The_Further_Adventures_of_SuperTed>:1	<http://dbpedia.org/resource/Cow_and_Chicken>:1	
+<http://dbpedia.org/resource/Valri_Bromfield>
+<http://dbpedia.org/resource/Mark_Tymchyshyn>	<http://dbpedia.org/resource/Carol_&_Company>	<http://dbpedia.org/resource/Lilly_Moon>	<http://dbpedia.org/resource/Foofur>	<http://dbpedia.org/resource/Willie_Revillame>	<http://dbpedia.org/resource/Pilipinas_Win_Na_Win>	<http://dbpedia.org/resource/Frencheska_Farr>	<http://dbpedia.org/resource/Comedy_Bar_(Philippine_TV_series)>	
+<http://dbpedia.org/resource/Regular_Show>:1	<http://dbpedia.org/resource/Dexter''s_Laboratory>:1	<http://dbpedia.org/resource/I_Am_Weasel>:1	<http://dbpedia.org/resource/Codename:_Kids_Next_Door>:1	<http://dbpedia.org/resource/Uncle_Grandpa>:1	<http://dbpedia.org/resource/Ed_Grimley__The_Completely_Mental_Misadventures_of_Ed_Grimley__1>:1	<http://dbpedia.org/resource/Yogi_the_Easter_Bear>:1	<http://dbpedia.org/resource/The_Further_Adventures_of_SuperTed>:1	<http://dbpedia.org/resource/Cow_and_Chicken>:1	
+<http://dbpedia.org/resource/Valri_Bromfield>
+<http://dbpedia.org/resource/Joel_Grey>	<http://dbpedia.org/resource/Ocean''s_Trilogy>	<http://dbpedia.org/resource/Clyde_Beatty>	<http://dbpedia.org/resource/Mr._and_Mrs._North>	<http://dbpedia.org/resource/Granville_Van_Dusen>	<http://dbpedia.org/resource/Yogi_and_the_Invasion_of_the_Space_Bears>	<http://dbpedia.org/resource/Don_Johnson>	<http://dbpedia.org/resource/The_100_Lives_of_Black_Jack_Savage>	<http://dbpedia.org/resource/John_Barrowman>	<http://dbpedia.org/resource/Parenthood_(1990_TV_series)>	
+<http://dbpedia.org/resource/Regular_Show>:1	<http://dbpedia.org/resource/Dexter''s_Laboratory>:1	<http://dbpedia.org/resource/I_Am_Weasel>:1	<http://dbpedia.org/resource/Codename:_Kids_Next_Door>:1	<http://dbpedia.org/resource/Uncle_Grandpa>:1	<http://dbpedia.org/resource/Ed_Grimley__The_Completely_Mental_Misadventures_of_Ed_Grimley__1>:1	<http://dbpedia.org/resource/Yogi_the_Easter_Bear>:1	<http://dbpedia.org/resource/The_Further_Adventures_of_SuperTed>:1	<http://dbpedia.org/resource/Cow_and_Chicken>:1
